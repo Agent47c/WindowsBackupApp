@@ -1,0 +1,44 @@
+2026-08-04 00:50:55 - INFO - Logger initialized
+2026-08-04 00:50:55 - INFO - Loaded manifest for: 7-Zip 25.01 (x64)
+2026-08-04 00:50:55 - INFO - Starting restore for: 7-Zip 25.01 (x64)
+2026-08-04 00:50:55 - INFO - Restoring Program Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData
+2026-08-04 00:50:55 - INFO - Restoring files to: C:\Program Files\7-Zip
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7-zip.chm -> C:\Program Files\7-Zip\7-zip.chm: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7-zip.chm'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7-zip.dll -> C:\Program Files\7-Zip\7-zip.dll: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7-zip.dll'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7-zip32.dll -> C:\Program Files\7-Zip\7-zip32.dll: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7-zip32.dll'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7z.dll -> C:\Program Files\7-Zip\7z.dll: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7z.dll'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7z.exe -> C:\Program Files\7-Zip\7z.exe: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7z.exe'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7z.sfx -> C:\Program Files\7-Zip\7z.sfx: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7z.sfx'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7zCon.sfx -> C:\Program Files\7-Zip\7zCon.sfx: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7zCon.sfx'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7zFM.exe -> C:\Program Files\7-Zip\7zFM.exe: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7zFM.exe'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7zG.exe -> C:\Program Files\7-Zip\7zG.exe: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\7zG.exe'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\descript.ion -> C:\Program Files\7-Zip\descript.ion: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\descript.ion'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\History.txt -> C:\Program Files\7-Zip\History.txt: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\History.txt'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\License.txt -> C:\Program Files\7-Zip\License.txt: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\License.txt'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\readme.txt -> C:\Program Files\7-Zip\readme.txt: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\readme.txt'
+2026-08-04 00:50:55 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\Uninstall.exe -> C:\Program Files\7-Zip\Uninstall.exe: [Errno 13] Permission denied: 'C:\\Program Files\\7-Zip\\Uninstall.exe'
+2026-08-04 00:50:55 - ERROR - Failed to restore 7-Zip: [WinError 5] Access is denied: 'C:\\Program Files\\7-Zip\\Lang'
+2026-08-04 00:50:55 - INFO - Error restoring 7-Zip: [WinError 5] Access is denied: 'C:\\Program Files\\7-Zip\\Lang'
+2026-08-04 00:50:55 - INFO - Restoring User Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\UserData
+2026-08-04 00:50:55 - INFO - Restoring 1 shortcuts...
+2026-08-04 00:50:55 - ERROR - Failed to restore shortcut 7-Zip: [WinError 5] Access is denied: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip'
+2026-08-04 00:50:55 - INFO - Restored 0 shortcuts
+2026-08-04 00:50:55 - INFO - Importing registry keys...
+2026-08-04 00:50:55 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_1.reg
+2026-08-04 00:50:55 - WARNING - Registry import failed: ERROR: Error accessing the registry.
+
+2026-08-04 00:50:55 - WARNING - Failed to import registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_2.reg
+2026-08-04 00:50:55 - WARNING - Registry import failed: ERROR: Error accessing the registry.
+
+2026-08-04 00:50:55 - WARNING - Failed to import registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_3.reg
+2026-08-04 00:50:55 - WARNING - Registry import failed: ERROR: Error accessing the registry.
+
+2026-08-04 00:50:55 - WARNING - Failed to import registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_4.reg
+2026-08-04 00:50:55 - WARNING - Registry import failed: ERROR: Error accessing the registry.
+
+2026-08-04 00:50:55 - WARNING - Failed to import registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_5.reg
+2026-08-04 00:50:55 - WARNING - Registry import failed: ERROR: Error accessing the registry.
+
+2026-08-04 00:50:55 - WARNING - Failed to import registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_6.reg
+2026-08-04 00:50:55 - INFO - Imported 1 registry keys
+2026-08-04 00:50:55 - INFO - Restore completed successfully

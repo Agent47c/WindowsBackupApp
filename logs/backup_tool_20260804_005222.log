@@ -1,0 +1,261 @@
+2026-08-04 00:52:22 - INFO - Logger initialized
+2026-08-04 00:52:22 - INFO - Loaded backup history
+2026-08-04 00:52:22 - INFO - Loaded backup history
+2026-08-04 00:52:22 - INFO - Scanning for installed applications...
+2026-08-04 00:52:22 - INFO - Found 52 installed applications
+2026-08-04 00:52:27 - INFO - Loaded manifest for: 7-Zip 25.01 (x64)
+2026-08-04 00:52:27 - INFO - Starting restore for: 7-Zip 25.01 (x64)
+2026-08-04 00:52:27 - INFO - Restoring Program Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData
+2026-08-04 00:52:27 - INFO - Restoring files to: C:\Program Files\7-Zip
+2026-08-04 00:52:27 - WARNING - Could not copy file D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip\7-zip.dll -> C:\Program Files\7-Zip\7-zip.dll: [WinError 32] The process cannot access the file because it is being used by another process
+2026-08-04 00:52:27 - WARNING - ⚠️ 1 file(s) failed during restore of 7-Zip. Run as Administrator if writing to Program Files.
+2026-08-04 00:52:27 - INFO - ⚠️ 1 file(s) failed (Administrator rights required)
+2026-08-04 00:52:27 - INFO - ✓ Restored 7-Zip: 106 copied, 0 skipped, 1 failed -> C:\Program Files\7-Zip
+2026-08-04 00:52:27 - INFO - ✓ Restored 7-Zip (106 files)
+2026-08-04 00:52:27 - INFO - Restoring User Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\UserData
+2026-08-04 00:52:27 - INFO - Restoring 1 shortcuts...
+2026-08-04 00:52:27 - INFO - Restored shortcut folder: 7-Zip
+2026-08-04 00:52:27 - INFO - ✓ Restored shortcut: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Shortcuts\7-Zip -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:52:27 - INFO - Restored 1 shortcuts
+2026-08-04 00:52:27 - INFO - Importing registry keys...
+2026-08-04 00:52:27 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_1.reg
+2026-08-04 00:52:27 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_2.reg
+2026-08-04 00:52:27 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_3.reg
+2026-08-04 00:52:27 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_4.reg
+2026-08-04 00:52:27 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_5.reg
+2026-08-04 00:52:27 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_6.reg
+2026-08-04 00:52:27 - INFO - Imported 6 registry keys
+2026-08-04 00:52:27 - INFO - ⚠️ Restore completed with warnings (106 restored, 1 failed due to permissions)
+2026-08-04 00:52:32 - INFO - === Comprehensive Scan for: Adobe After Effects 2025 ===
+2026-08-04 00:52:32 - INFO - Name variations: ['AdobeAfterEffects', 'Adobe-After-Effects-2025', 'Adobe', 'Adobe_After_Effects_2025', 'com.adobe.after']...
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 00:52:32 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 00:52:32 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\After Effects
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 00:52:32 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\After Effects 2025
+2026-08-04 00:52:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\After Effects 2025
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 00:52:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AEFT_25_4
+2026-08-04 00:52:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 00:52:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 00:52:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 00:52:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 00:52:32 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 00:52:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:52:32 - INFO - Program Data: 13 locations
+2026-08-04 00:52:32 - INFO - User Data: 16 locations
+2026-08-04 00:52:32 - INFO - Custom Locations: 0 locations
+2026-08-04 00:52:32 - INFO - Registry Keys: 7 keys
+2026-08-04 00:52:32 - INFO - Shortcuts: 5 found
+2026-08-04 00:52:32 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 00:52:32 - INFO - Name variations: ['7-Zip-25.01-(x64)', '7-Zip25.01(x64)', '7-zip (x64)', '7-zip 25.01 (x64)', '7-Zip 25.01']...
+2026-08-04 00:52:32 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 00:52:32 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-08-04 00:52:32 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:52:32 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 00:52:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 00:52:32 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:52:32 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:52:32 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:52:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 00:52:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:52:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:52:32 - INFO - Program Data: 1 locations
+2026-08-04 00:52:32 - INFO - User Data: 0 locations
+2026-08-04 00:52:32 - INFO - Custom Locations: 0 locations
+2026-08-04 00:52:32 - INFO - Registry Keys: 6 keys
+2026-08-04 00:52:32 - INFO - Shortcuts: 1 found
+2026-08-04 00:52:47 - INFO - === Comprehensive Scan for: Adobe After Effects 2025 ===
+2026-08-04 00:52:47 - INFO - Name variations: ['AdobeAfterEffects', 'Adobe-After-Effects-2025', 'Adobe', 'Adobe_After_Effects_2025', 'com.adobe.after']...
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 00:52:47 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 00:52:47 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\After Effects
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 00:52:47 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\After Effects 2025
+2026-08-04 00:52:47 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\After Effects 2025
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 00:52:47 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AEFT_25_4
+2026-08-04 00:52:47 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 00:52:47 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 00:52:47 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 00:52:47 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 00:52:47 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 00:52:47 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:52:47 - INFO - Program Data: 13 locations
+2026-08-04 00:52:47 - INFO - User Data: 16 locations
+2026-08-04 00:52:47 - INFO - Custom Locations: 0 locations
+2026-08-04 00:52:47 - INFO - Registry Keys: 7 keys
+2026-08-04 00:52:47 - INFO - Shortcuts: 5 found
+2026-08-04 00:52:47 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 00:52:47 - INFO - Name variations: ['7-Zip-25.01-(x64)', '7-Zip25.01(x64)', '7-zip (x64)', '7-zip 25.01 (x64)', '7-Zip 25.01']...
+2026-08-04 00:52:47 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 00:52:47 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-08-04 00:52:47 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:52:47 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 00:52:47 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 00:52:47 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:52:47 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:52:47 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:52:47 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 00:52:47 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:52:47 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:52:47 - INFO - Program Data: 1 locations
+2026-08-04 00:52:47 - INFO - User Data: 0 locations
+2026-08-04 00:52:47 - INFO - Custom Locations: 0 locations
+2026-08-04 00:52:47 - INFO - Registry Keys: 6 keys
+2026-08-04 00:52:47 - INFO - Shortcuts: 1 found
+2026-08-04 00:52:54 - INFO - === Comprehensive Scan for: Discord ===
+2026-08-04 00:52:54 - INFO - Name variations: ['Discord', 'discord', 'Discord.Discord', 'com.discord.discord']...
+2026-08-04 00:52:54 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Discord
+2026-08-04 00:52:54 - INFO - ✓ Found program_data: C:\Program Files\Common Files\discord
+2026-08-04 00:52:54 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Discord
+2026-08-04 00:52:54 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\discord
+2026-08-04 00:52:54 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-08-04 00:52:54 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\discord
+2026-08-04 00:52:54 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-08-04 00:52:54 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Roaming\Discord.
+2026-08-04 00:52:54 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Local\Discord.
+2026-08-04 00:52:54 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Discord
+2026-08-04 00:52:54 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\discord
+2026-08-04 00:52:54 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Discord
+2026-08-04 00:52:54 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc
+2026-08-04 00:52:54 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Discord.lnk
+2026-08-04 00:52:54 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:52:54 - INFO - Program Data: 1 locations
+2026-08-04 00:52:54 - INFO - User Data: 4 locations
+2026-08-04 00:52:54 - INFO - Custom Locations: 0 locations
+2026-08-04 00:52:54 - INFO - Registry Keys: 3 keys
+2026-08-04 00:52:54 - INFO - Shortcuts: 2 found
+2026-08-04 00:52:59 - INFO - === Comprehensive Scan for: 腾讯手游助手 ===
+2026-08-04 00:52:59 - INFO - Name variations: ['com.腾讯科技(深圳)有限公司.腾讯手游助手', '腾讯科技(深圳)有限公司', '腾讯手游助手', '腾讯科技(深圳)有限公司.腾讯手游助手']...
+2026-08-04 00:52:59 - INFO - No paths found in standard locations, scanning all drives...
+2026-08-04 00:52:59 - INFO - Scanning all drives for application...
+2026-08-04 00:52:59 - INFO - Scanning drive: D:\
+2026-08-04 00:52:59 - INFO - Scanning drive: E:\
+2026-08-04 00:52:59 - INFO - Scanning drive: F:\
+2026-08-04 00:52:59 - INFO - Scanning drive: G:\
+2026-08-04 00:52:59 - INFO - Scanning drive: H:\
+2026-08-04 00:52:59 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileGamePC
+2026-08-04 00:52:59 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\腾讯手游助手.lnk
+2026-08-04 00:52:59 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:52:59 - INFO - Program Data: 0 locations
+2026-08-04 00:52:59 - INFO - User Data: 0 locations
+2026-08-04 00:52:59 - INFO - Custom Locations: 0 locations
+2026-08-04 00:52:59 - INFO - Registry Keys: 1 keys
+2026-08-04 00:52:59 - INFO - Shortcuts: 1 found
+2026-08-04 00:53:00 - INFO - === Comprehensive Scan for: yt-dlp ===
+2026-08-04 00:53:00 - INFO - Name variations: ['yt-dlp', 'yt-dlp.yt-dlp', 'com.yt-dlp.yt-dlp']...
+2026-08-04 00:53:00 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-08-04 00:53:00 - INFO - No paths found in standard locations, scanning all drives...
+2026-08-04 00:53:00 - INFO - Scanning all drives for application...
+2026-08-04 00:53:00 - INFO - Scanning drive: D:\
+2026-08-04 00:53:00 - INFO - Scanning drive: E:\
+2026-08-04 00:53:00 - INFO - Scanning drive: F:\
+2026-08-04 00:53:00 - INFO - Scanning drive: G:\
+2026-08-04 00:53:00 - INFO - Scanning drive: H:\
+2026-08-04 00:53:00 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-08-04 00:53:00 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-08-04 00:53:00 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-08-04 00:53:00 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:53:00 - INFO - Program Data: 0 locations
+2026-08-04 00:53:00 - INFO - User Data: 2 locations
+2026-08-04 00:53:00 - INFO - Custom Locations: 0 locations
+2026-08-04 00:53:00 - INFO - Registry Keys: 1 keys
+2026-08-04 00:53:00 - INFO - Shortcuts: 0 found
+2026-08-04 00:53:00 - INFO - === Comprehensive Scan for: 腾讯手游助手 ===
+2026-08-04 00:53:00 - INFO - Name variations: ['com.腾讯科技(深圳)有限公司.腾讯手游助手', '腾讯科技(深圳)有限公司', '腾讯手游助手', '腾讯科技(深圳)有限公司.腾讯手游助手']...
+2026-08-04 00:53:00 - INFO - No paths found in standard locations, scanning all drives...
+2026-08-04 00:53:00 - INFO - Scanning all drives for application...
+2026-08-04 00:53:00 - INFO - Scanning drive: D:\
+2026-08-04 00:53:00 - INFO - Scanning drive: E:\
+2026-08-04 00:53:00 - INFO - Scanning drive: F:\
+2026-08-04 00:53:00 - INFO - Scanning drive: G:\
+2026-08-04 00:53:00 - INFO - Scanning drive: H:\
+2026-08-04 00:53:00 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileGamePC
+2026-08-04 00:53:00 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\腾讯手游助手.lnk
+2026-08-04 00:53:00 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:53:00 - INFO - Program Data: 0 locations
+2026-08-04 00:53:00 - INFO - User Data: 0 locations
+2026-08-04 00:53:00 - INFO - Custom Locations: 0 locations
+2026-08-04 00:53:00 - INFO - Registry Keys: 1 keys
+2026-08-04 00:53:00 - INFO - Shortcuts: 1 found

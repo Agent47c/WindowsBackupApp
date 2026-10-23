@@ -1,0 +1,11 @@
+{
+  "app_name": "Google Chrome",
+  "program_data_paths": [],
+  "user_data_paths": [
+    "%LOCALAPPDATA%\\Google\\Chrome\\User Data"
+  ],
+  "registry_keys": [
+    "HKEY_CURRENT_USER\\Software\\Google\\Chrome",
+    "HKEY_CURRENT_USER\\Software\\Policies\\Google\\Chrome"
+  ]
+}

@@ -1,0 +1,24 @@
+2026-02-06 20:02:16 - INFO - Logger initialized
+2026-02-06 20:02:16 - INFO - Loaded profile: Google Chrome
+2026-02-06 20:02:16 - INFO - Loaded profile: Notepad++
+2026-02-06 20:02:16 - INFO - Loaded profile: Sublime Text
+2026-02-06 20:02:16 - INFO - Loaded profile: Visual Studio Code
+2026-02-06 20:02:16 - INFO - Loaded profile: Application Name Here
+2026-02-06 20:02:57 - INFO - Starting backup for: Application Name Here
+2026-02-06 20:02:57 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\Application Name Here
+2026-02-06 20:02:57 - WARNING - Path does not exist, skipping: C:\Program Files\AppName\config
+2026-02-06 20:02:57 - WARNING - Path does not exist, skipping: C:\ProgramData\AppName
+2026-02-06 20:02:57 - WARNING - Path does not exist, skipping: C:\Users\Hamza Ramzan\AppData\Roaming\AppName
+2026-02-06 20:02:57 - WARNING - Path does not exist, skipping: C:\Users\Hamza Ramzan\AppData\Local\AppName
+2026-02-06 20:02:57 - WARNING - Path does not exist, skipping: C:\Users\Hamza Ramzan\.appname
+2026-02-06 20:02:57 - INFO - Exporting registry keys...
+2026-02-06 20:02:57 - WARNING - Registry export failed: ERROR: The system was unable to find the specified registry key or value.
+
+2026-02-06 20:02:57 - WARNING - Failed to export registry key: HKEY_CURRENT_USER\Software\AppName
+2026-02-06 20:02:57 - WARNING - Registry export failed: ERROR: The system was unable to find the specified registry key or value.
+
+2026-02-06 20:02:57 - WARNING - Failed to export registry key: HKEY_LOCAL_MACHINE\Software\AppName
+2026-02-06 20:02:57 - INFO - Exported 0 registry keys
+2026-02-06 20:02:57 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\Application Name Here\manifest.json
+2026-02-06 20:02:57 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 20:02:57 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\Application Name Here

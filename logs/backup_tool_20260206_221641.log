@@ -1,0 +1,7 @@
+2026-02-06 22:16:41 - INFO - Logger initialized
+2026-02-06 22:16:41 - INFO - Loaded backup history
+2026-02-06 22:16:41 - INFO - Loaded backup history
+2026-02-06 22:16:42 - INFO - Scanning for installed applications...
+2026-02-06 22:16:42 - INFO - Found 46 installed applications
+2026-02-06 22:16:51 - ERROR - Invalid manifest: missing field 'version'
+2026-02-06 22:16:51 - INFO - Error: Invalid manifest file

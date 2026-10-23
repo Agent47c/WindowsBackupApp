@@ -1,0 +1,14 @@
+{
+  "app_name": "Notepad++",
+  "program_data_paths": [
+    "%PROGRAMFILES%\\Notepad++\\plugins\\config",
+    "%PROGRAMFILES(X86)%\\Notepad++\\plugins\\config"
+  ],
+  "user_data_paths": [
+    "%APPDATA%\\Notepad++",
+    "%APPDATA%\\Notepad++\\plugins\\config"
+  ],
+  "registry_keys": [
+    "HKEY_CURRENT_USER\\Software\\Notepad++"
+  ]
+}

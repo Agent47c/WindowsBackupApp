@@ -1,0 +1,4 @@
+.backup_history
+backups/
+Task.md
+__pycache__/

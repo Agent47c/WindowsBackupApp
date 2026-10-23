@@ -1,0 +1,26 @@
+2026-08-04 01:00:23 - INFO - Logger initialized
+2026-08-04 01:00:26 - INFO - Scanning for installed applications...
+2026-08-04 01:00:26 - INFO - Found 52 installed applications
+2026-08-04 01:00:26 - INFO - Scanning for installed applications...
+2026-08-04 01:00:26 - INFO - Found 52 installed applications
+2026-08-04 01:00:26 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:00:26 - INFO - Name variations: ['7-Zip(x64)', '7-Zip.(x64)', '7-zip 25.01 (x64)', '7-zip (x64)', 'Igor Pavlov.(x64)']...
+2026-08-04 01:00:26 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:00:26 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:00:26 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:00:26 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:00:26 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:00:26 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:00:26 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:00:26 - INFO - Program Data: 1 locations
+2026-08-04 01:00:26 - INFO - User Data: 0 locations
+2026-08-04 01:00:26 - INFO - Custom Locations: 0 locations
+2026-08-04 01:00:26 - INFO - Registry Keys: 6 keys
+2026-08-04 01:00:26 - INFO - Shortcuts: 1 found

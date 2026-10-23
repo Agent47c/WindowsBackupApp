@@ -1,0 +1,24 @@
+2026-02-06 21:37:47 - INFO - Logger initialized
+2026-02-06 21:37:47 - INFO - Loaded backup history
+2026-02-06 21:37:47 - INFO - Loaded backup history
+2026-02-06 21:37:47 - INFO - Scanning for installed applications...
+2026-02-06 21:37:47 - INFO - Found 47 installed applications
+2026-02-06 21:37:54 - INFO - Scanning all locations for: MSI Afterburner 4.6.6
+2026-02-06 21:37:54 - INFO - Found 0 program data paths
+2026-02-06 21:37:54 - INFO - Found 0 user data paths
+2026-02-06 21:37:54 - INFO - Found 2 registry keys
+2026-02-06 21:37:59 - INFO - Scanning all locations for: MSI Afterburner 4.6.6
+2026-02-06 21:37:59 - INFO - Found 0 program data paths
+2026-02-06 21:37:59 - INFO - Found 0 user data paths
+2026-02-06 21:37:59 - INFO - Found 2 registry keys
+2026-02-06 21:37:59 - INFO - Starting backup for: MSI Afterburner 4.6.6
+2026-02-06 21:37:59 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
+2026-02-06 21:37:59 - INFO - Exporting registry keys...
+2026-02-06 21:37:59 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 21:37:59 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-06 21:37:59 - INFO - Exported 2 registry keys
+2026-02-06 21:37:59 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6\manifest.json
+2026-02-06 21:37:59 - INFO - Merged backup for MSI Afterburner 4.6.6 (backup #2)
+2026-02-06 21:37:59 - INFO - Saved backup history
+2026-02-06 21:37:59 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:37:59 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6

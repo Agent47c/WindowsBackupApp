@@ -1,0 +1,48 @@
+2026-02-06 21:39:43 - INFO - Logger initialized
+2026-02-06 21:39:43 - INFO - Loaded backup history
+2026-02-06 21:39:43 - INFO - Loaded backup history
+2026-02-06 21:39:43 - INFO - Scanning for installed applications...
+2026-02-06 21:39:43 - INFO - Found 47 installed applications
+2026-02-06 21:39:49 - INFO - Scanning all locations for: MSI Afterburner 4.6.6
+2026-02-06 21:39:49 - INFO - Found 0 program data paths
+2026-02-06 21:39:49 - INFO - Found 0 user data paths
+2026-02-06 21:39:49 - INFO - Found 2 registry keys
+2026-02-06 21:39:54 - INFO - Scanning all locations for: MSI Afterburner 4.6.6
+2026-02-06 21:39:54 - INFO - Found 0 program data paths
+2026-02-06 21:39:54 - INFO - Found 0 user data paths
+2026-02-06 21:39:54 - INFO - Found 2 registry keys
+2026-02-06 21:39:54 - INFO - Starting backup for: MSI Afterburner 4.6.6
+2026-02-06 21:39:54 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
+2026-02-06 21:39:54 - INFO - Exporting registry keys...
+2026-02-06 21:39:54 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-06 21:39:54 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 21:39:54 - INFO - Exported 2 registry keys
+2026-02-06 21:39:54 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6\manifest.json
+2026-02-06 21:39:54 - INFO - Merged backup for MSI Afterburner 4.6.6 (backup #3)
+2026-02-06 21:39:54 - INFO - Saved backup history
+2026-02-06 21:39:54 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:39:54 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
+2026-02-06 21:47:34 - INFO - Scanning all locations for: Cloudflare WARP
+2026-02-06 21:47:34 - INFO - Found 3 program data paths
+2026-02-06 21:47:34 - INFO - Found 1 user data paths
+2026-02-06 21:47:34 - INFO - Found 3 registry keys
+2026-02-06 21:47:52 - INFO - Scanning all locations for: yt-dlp
+2026-02-06 21:47:52 - INFO - Found 0 program data paths
+2026-02-06 21:47:52 - INFO - Found 0 user data paths
+2026-02-06 21:47:52 - INFO - Found 0 registry keys
+2026-02-06 21:48:12 - INFO - Scanning all locations for: GameLoop
+2026-02-06 21:48:12 - INFO - Found 0 program data paths
+2026-02-06 21:48:12 - INFO - Found 0 user data paths
+2026-02-06 21:48:12 - INFO - Found 0 registry keys
+2026-02-06 21:48:24 - INFO - Scanning all locations for: GameLoop
+2026-02-06 21:48:24 - INFO - Found 0 program data paths
+2026-02-06 21:48:24 - INFO - Found 0 user data paths
+2026-02-06 21:48:24 - INFO - Found 0 registry keys
+2026-02-06 21:48:29 - INFO - Scanning all locations for: GameLoop
+2026-02-06 21:48:29 - INFO - Found 0 program data paths
+2026-02-06 21:48:29 - INFO - Found 0 user data paths
+2026-02-06 21:48:29 - INFO - Found 0 registry keys
+2026-02-06 21:48:52 - INFO - Scanning all locations for: GameLoop
+2026-02-06 21:48:52 - INFO - Found 0 program data paths
+2026-02-06 21:48:52 - INFO - Found 0 user data paths
+2026-02-06 21:48:52 - INFO - Found 0 registry keys

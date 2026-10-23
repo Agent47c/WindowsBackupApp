@@ -1,0 +1,68 @@
+2026-08-04 00:47:30 - INFO - Logger initialized
+2026-08-04 00:47:30 - INFO - Loaded backup history
+2026-08-04 00:47:30 - INFO - Loaded backup history
+2026-08-04 00:47:31 - INFO - Scanning for installed applications...
+2026-08-04 00:47:31 - INFO - Found 51 installed applications
+2026-08-04 00:47:37 - INFO - Loaded manifest for: 7-Zip 25.01 (x64)
+2026-08-04 00:47:37 - INFO - Starting restore for: 7-Zip 25.01 (x64)
+2026-08-04 00:47:37 - INFO - Restoring Program Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData
+2026-08-04 00:47:37 - INFO - Restoring: 7-Zip
+2026-08-04 00:47:37 - INFO - Removing existing directory: C:\Program Files\7-Zip
+2026-08-04 00:47:37 - ERROR - Failed to restore 7-Zip: [WinError 5] Access is denied: 'C:\\Program Files\\7-Zip\\7-zip.dll'
+2026-08-04 00:47:37 - INFO - Error restoring 7-Zip: [WinError 5] Access is denied: 'C:\\Program Files\\7-Zip\\7-zip.dll'
+2026-08-04 00:47:37 - INFO - Restoring User Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\UserData
+2026-08-04 00:47:37 - INFO - Restoring 1 shortcuts...
+2026-08-04 00:47:37 - INFO - Restored shortcut folder: 7-Zip
+2026-08-04 00:47:37 - INFO - ✓ Restored shortcut: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Shortcuts\7-Zip -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:47:37 - INFO - Restored 1 shortcuts
+2026-08-04 00:47:37 - INFO - Importing registry keys...
+2026-08-04 00:47:37 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_1.reg
+2026-08-04 00:47:37 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_2.reg
+2026-08-04 00:47:37 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_3.reg
+2026-08-04 00:47:37 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_4.reg
+2026-08-04 00:47:37 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_5.reg
+2026-08-04 00:47:37 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_6.reg
+2026-08-04 00:47:37 - INFO - Imported 6 registry keys
+2026-08-04 00:47:37 - INFO - Restore completed successfully
+2026-08-04 00:47:59 - INFO - Scanning for installed applications...
+2026-08-04 00:47:59 - INFO - Found 52 installed applications
+2026-08-04 00:48:01 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 00:48:01 - INFO - Name variations: ['igorpavlov', '7-Zip25.01(x64)', '7-zip-25.01-(x64)', '7-Zip', '7-Zip.25.01.(x64)']...
+2026-08-04 00:48:01 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 00:48:01 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-08-04 00:48:01 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:48:01 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:48:01 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 00:48:01 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 00:48:01 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:48:01 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:48:01 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:48:01 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 00:48:01 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:48:01 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:48:01 - INFO - Program Data: 1 locations
+2026-08-04 00:48:01 - INFO - User Data: 0 locations
+2026-08-04 00:48:01 - INFO - Custom Locations: 0 locations
+2026-08-04 00:48:01 - INFO - Registry Keys: 6 keys
+2026-08-04 00:48:01 - INFO - Shortcuts: 1 found
+2026-08-04 00:49:42 - INFO - Loaded manifest for: 7-Zip 25.01 (x64)
+2026-08-04 00:49:42 - INFO - Starting restore for: 7-Zip 25.01 (x64)
+2026-08-04 00:49:42 - INFO - Restoring Program Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData
+2026-08-04 00:49:42 - INFO - Restoring: 7-Zip
+2026-08-04 00:49:42 - INFO - Removing existing directory: C:\Program Files\7-Zip
+2026-08-04 00:49:42 - ERROR - Failed to restore 7-Zip: [WinError 5] Access is denied: 'C:\\Program Files\\7-Zip\\7-zip.dll'
+2026-08-04 00:49:42 - INFO - Error restoring 7-Zip: [WinError 5] Access is denied: 'C:\\Program Files\\7-Zip\\7-zip.dll'
+2026-08-04 00:49:42 - INFO - Restoring User Data from: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\UserData
+2026-08-04 00:49:42 - INFO - Restoring 1 shortcuts...
+2026-08-04 00:49:42 - INFO - Restored shortcut folder: 7-Zip
+2026-08-04 00:49:42 - INFO - ✓ Restored shortcut: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Shortcuts\7-Zip -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:49:42 - INFO - Restored 1 shortcuts
+2026-08-04 00:49:42 - INFO - Importing registry keys...
+2026-08-04 00:49:42 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_1.reg
+2026-08-04 00:49:42 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_2.reg
+2026-08-04 00:49:42 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_3.reg
+2026-08-04 00:49:42 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_4.reg
+2026-08-04 00:49:42 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_5.reg
+2026-08-04 00:49:42 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Registry\registry_6.reg
+2026-08-04 00:49:42 - INFO - Imported 6 registry keys
+2026-08-04 00:49:42 - INFO - Restore completed successfully

@@ -1,0 +1,18 @@
+2026-02-06 21:11:19 - INFO - Logger initialized
+2026-02-06 21:11:19 - INFO - Loaded backup history
+2026-02-06 21:11:19 - INFO - Loaded backup history
+2026-02-06 21:11:19 - INFO - Scanning for installed applications...
+2026-02-06 21:11:19 - INFO - Found 47 installed applications
+2026-02-06 21:11:27 - INFO - Loaded manifest for: OBS Studio
+2026-02-06 21:11:27 - INFO - Starting restore for: OBS Studio
+2026-02-06 21:11:27 - INFO - Restoring Program Data: OBS-Studio
+2026-02-06 21:11:27 - ERROR - Failed to restore OBS-Studio: [WinError 5] Access is denied: 'C:\\Program Files\\OBS-Studio\\data\\obs-plugins\\win-dshow\\obs-virtualcam-module64.dll'
+2026-02-06 21:11:27 - INFO - Restoring User Data: obs-studio
+2026-02-06 21:11:27 - INFO - Restored: E:/BackupSmart\SmartAppBackup\OBS Studio\UserData\obs-studio -> C:\Users\Hamza Ramzan\AppData\Roaming\obs-studio
+2026-02-06 21:11:27 - INFO - Importing registry keys...
+2026-02-06 21:11:27 - INFO - Imported registry file: E:/BackupSmart\SmartAppBackup\OBS Studio\Registry\registry_key_1.reg
+2026-02-06 21:11:27 - INFO - Imported registry file: E:/BackupSmart\SmartAppBackup\OBS Studio\Registry\registry_key_2.reg
+2026-02-06 21:11:27 - INFO - Imported registry file: E:/BackupSmart\SmartAppBackup\OBS Studio\Registry\registry_key_3.reg
+2026-02-06 21:11:27 - INFO - Imported registry file: E:/BackupSmart\SmartAppBackup\OBS Studio\Registry\registry_key_4.reg
+2026-02-06 21:11:27 - INFO - Imported 4 registry keys
+2026-02-06 21:11:27 - INFO - Restore completed successfully

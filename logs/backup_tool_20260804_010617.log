@@ -1,0 +1,1009 @@
+2026-08-04 01:06:17 - INFO - Logger initialized
+2026-08-04 01:06:17 - INFO - Loaded backup history
+2026-08-04 01:06:17 - INFO - Loaded backup history
+2026-08-04 01:06:17 - INFO - Scanning for installed applications...
+2026-08-04 01:06:17 - INFO - Found 52 installed applications
+2026-08-04 01:06:22 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:06:22 - INFO - Name variations: ['7-Zip', '7-Zip-25.01-(x64)', '7-Zip 25.01 (x64)', '7-zip 25.01 (x64)', '7-Zip-(x64)']...
+2026-08-04 01:06:22 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:06:22 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:06:22 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:06:22 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:06:22 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:06:22 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:06:22 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:22 - INFO - Program Data: 1 locations
+2026-08-04 01:06:22 - INFO - User Data: 0 locations
+2026-08-04 01:06:22 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:22 - INFO - Registry Keys: 6 keys
+2026-08-04 01:06:22 - INFO - Shortcuts: 1 found
+2026-08-04 01:06:23 - INFO - === Comprehensive Scan for: Adobe After Effects 2025 ===
+2026-08-04 01:06:23 - INFO - Name variations: ['com.adobe.effects', 'Adobe.After.Effects', 'Adobe After Effects', 'Adobe.Effects', 'AdobeAfterEffects']...
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:23 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:23 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:23 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:23 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\After Effects
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:23 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\After Effects 2025
+2026-08-04 01:06:23 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\After Effects 2025
+2026-08-04 01:06:23 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:23 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:23 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AEFT_25_4
+2026-08-04 01:06:23 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:23 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:23 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:23 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:23 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:23 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:23 - INFO - Program Data: 14 locations
+2026-08-04 01:06:23 - INFO - User Data: 16 locations
+2026-08-04 01:06:23 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:23 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:23 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:24 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:24 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:24 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:24 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:24 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:24 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:24 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:24 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:24 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:24 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:24 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:24 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:24 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:24 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:24 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:24 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:24 - INFO - Program Data: 14 locations
+2026-08-04 01:06:24 - INFO - User Data: 13 locations
+2026-08-04 01:06:24 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:24 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:24 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:26 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:06:26 - INFO - Name variations: ['adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro', 'adobe premiere pro 2025', 'com.adobe.pro']...
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:26 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:26 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:26 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:26 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:26 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:26 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:06:26 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:26 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:06:26 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:26 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:26 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:26 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:26 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:26 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:26 - INFO - Program Data: 14 locations
+2026-08-04 01:06:26 - INFO - User Data: 17 locations
+2026-08-04 01:06:26 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:26 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:26 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:27 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:27 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:27 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:27 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:27 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:27 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:27 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:27 - INFO - Program Data: 14 locations
+2026-08-04 01:06:27 - INFO - User Data: 13 locations
+2026-08-04 01:06:27 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:27 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:27 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:27 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:06:27 - INFO - Name variations: ['adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro', 'adobe premiere pro 2025', 'com.adobe.pro']...
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:27 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:27 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:27 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:27 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:27 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:27 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:27 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:27 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:27 - INFO - Program Data: 14 locations
+2026-08-04 01:06:27 - INFO - User Data: 17 locations
+2026-08-04 01:06:27 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:27 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:27 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:28 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:28 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:28 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:28 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:28 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:28 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:28 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:28 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:28 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:28 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:28 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:28 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:28 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:28 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:28 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:28 - INFO - Program Data: 14 locations
+2026-08-04 01:06:28 - INFO - User Data: 13 locations
+2026-08-04 01:06:28 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:28 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:28 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:29 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:06:29 - INFO - Name variations: ['adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro', 'adobe premiere pro 2025', 'com.adobe.pro']...
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:29 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:29 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:29 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:29 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:29 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:06:29 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:29 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:06:29 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:29 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:29 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:29 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:29 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:29 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:29 - INFO - Program Data: 14 locations
+2026-08-04 01:06:29 - INFO - User Data: 17 locations
+2026-08-04 01:06:29 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:29 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:29 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:30 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:30 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:30 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:30 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:30 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:30 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:30 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:30 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:30 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:30 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:30 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:30 - INFO - Program Data: 14 locations
+2026-08-04 01:06:30 - INFO - User Data: 13 locations
+2026-08-04 01:06:30 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:30 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:30 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:31 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:06:31 - INFO - Name variations: ['adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro', 'adobe premiere pro 2025', 'com.adobe.pro']...
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:31 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:31 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:31 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:31 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:31 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:31 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:06:31 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:31 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:31 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:06:31 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:31 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:31 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:31 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:31 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:31 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:31 - INFO - Program Data: 14 locations
+2026-08-04 01:06:31 - INFO - User Data: 17 locations
+2026-08-04 01:06:31 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:31 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:31 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:32 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:32 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:32 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:32 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:32 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:32 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:32 - INFO - Program Data: 14 locations
+2026-08-04 01:06:32 - INFO - User Data: 13 locations
+2026-08-04 01:06:32 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:32 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:32 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:32 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:06:32 - INFO - Name variations: ['adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro', 'adobe premiere pro 2025', 'com.adobe.pro']...
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:32 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:32 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:32 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:32 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:32 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:32 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:32 - INFO - Program Data: 14 locations
+2026-08-04 01:06:32 - INFO - User Data: 17 locations
+2026-08-04 01:06:32 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:32 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:32 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:33 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:33 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:33 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:33 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:33 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:33 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:33 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:33 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:33 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:33 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:33 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:33 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:33 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:33 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:33 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:33 - INFO - Program Data: 14 locations
+2026-08-04 01:06:33 - INFO - User Data: 13 locations
+2026-08-04 01:06:33 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:33 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:33 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:33 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:06:33 - INFO - Name variations: ['adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro', 'adobe premiere pro 2025', 'com.adobe.pro']...
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:33 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:34 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:06:34 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:34 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:34 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:34 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:06:34 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:06:34 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:34 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:06:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:34 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:34 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:34 - INFO - Program Data: 14 locations
+2026-08-04 01:06:34 - INFO - User Data: 17 locations
+2026-08-04 01:06:34 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:34 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:34 - INFO - Shortcuts: 5 found
+2026-08-04 01:06:35 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:06:35 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:35 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:35 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:06:35 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:06:35 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:06:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:06:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:06:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:06:35 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:06:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:06:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:06:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:06:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:06:35 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:06:35 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:06:35 - INFO - Program Data: 14 locations
+2026-08-04 01:06:35 - INFO - User Data: 13 locations
+2026-08-04 01:06:35 - INFO - Custom Locations: 0 locations
+2026-08-04 01:06:35 - INFO - Registry Keys: 7 keys
+2026-08-04 01:06:35 - INFO - Shortcuts: 5 found
+2026-08-04 01:07:32 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2026 ===
+2026-08-04 01:07:32 - INFO - Name variations: ['adobe premiere pro 2026', 'Adobe Premiere Pro 2026', 'adobe premiere pro', 'com.adobe.premiere', 'Adobe.Premiere.Pro']...
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:07:32 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:07:32 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:07:32 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:07:32 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:07:32 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2026
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_26_2
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:07:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:07:32 - INFO - Program Data: 14 locations
+2026-08-04 01:07:32 - INFO - User Data: 17 locations
+2026-08-04 01:07:32 - INFO - Custom Locations: 0 locations
+2026-08-04 01:07:32 - INFO - Registry Keys: 7 keys
+2026-08-04 01:07:32 - INFO - Shortcuts: 5 found
+2026-08-04 01:07:32 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:07:32 - INFO - Name variations: ['Adobe.Cloud', 'Adobe Creative Cloud', 'Adobe-Creative-Cloud', 'Adobe_Creative_Cloud', 'adobecreativecloud']...
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:07:32 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:07:32 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:07:32 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:07:32 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:07:32 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:07:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:07:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:07:32 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:07:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:07:32 - INFO - Program Data: 14 locations
+2026-08-04 01:07:32 - INFO - User Data: 13 locations
+2026-08-04 01:07:32 - INFO - Custom Locations: 0 locations
+2026-08-04 01:07:32 - INFO - Registry Keys: 7 keys
+2026-08-04 01:07:32 - INFO - Shortcuts: 5 found

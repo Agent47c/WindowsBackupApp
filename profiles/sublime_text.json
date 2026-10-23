@@ -1,0 +1,12 @@
+{
+  "app_name": "Sublime Text",
+  "program_data_paths": [],
+  "user_data_paths": [
+    "%APPDATA%\\Sublime Text",
+    "%APPDATA%\\Sublime Text 3",
+    "%APPDATA%\\Sublime Text 4"
+  ],
+  "registry_keys": [
+    "HKEY_CURRENT_USER\\Software\\Sublime Text"
+  ]
+}

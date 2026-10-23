@@ -1,0 +1,43 @@
+2026-08-04 00:41:57 - INFO - Logger initialized
+2026-08-04 00:41:57 - INFO - Scanning for installed applications...
+2026-08-04 00:41:57 - INFO - Found 52 installed applications
+2026-08-04 00:41:57 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 00:41:57 - INFO - Name variations: ['7-Zip (x64)', '7-Zip_25.01_(x64)', 'com.7-zip.25.01', 'igor pavlov', '7-Zip']...
+2026-08-04 00:41:57 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 00:41:57 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-08-04 00:41:57 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:41:57 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:41:57 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 00:41:57 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 00:41:57 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:41:57 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:41:57 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:41:57 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 00:41:57 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:41:57 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:41:57 - INFO - Program Data: 1 locations
+2026-08-04 00:41:57 - INFO - User Data: 0 locations
+2026-08-04 00:41:57 - INFO - Custom Locations: 0 locations
+2026-08-04 00:41:57 - INFO - Registry Keys: 6 keys
+2026-08-04 00:41:57 - INFO - Shortcuts: 1 found
+2026-08-04 00:41:57 - INFO - Starting backup for: 7-Zip 25.01 (x64)
+2026-08-04 00:41:57 - INFO - Created backup structure: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)
+2026-08-04 00:41:57 - INFO - Copying Program Data: 7-Zip
+2026-08-04 00:41:57 - INFO - Backed up: C:\Program Files\7-Zip -> D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip
+2026-08-04 00:41:57 - INFO - Backed up shortcut folder: 7-Zip
+2026-08-04 00:41:57 - INFO - Backed up shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip -> D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\Shortcuts\7-Zip
+2026-08-04 00:41:57 - INFO - Exporting registry keys...
+2026-08-04 00:41:57 - INFO - Exported registry key: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip -> registry_1.reg
+2026-08-04 00:41:57 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip -> registry_2.reg
+2026-08-04 00:41:57 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip -> registry_3.reg
+2026-08-04 00:41:57 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\7-Zip -> registry_4.reg
+2026-08-04 00:41:57 - INFO - Exported registry key: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip -> registry_5.reg
+2026-08-04 00:41:57 - INFO - Exported registry key: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip -> registry_6.reg
+2026-08-04 00:41:57 - INFO - Generated registry restore scripts (restore_registry.bat & restore_registry.ps1)
+2026-08-04 00:41:57 - INFO - Exported 6 registry keys
+2026-08-04 00:42:01 - INFO - Created manifest with system metadata: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)\manifest.json
+2026-08-04 00:42:03 - INFO - Added new backup for 7-Zip 25.01 (x64)
+2026-08-04 00:42:03 - INFO - Saved backup history (local)
+2026-08-04 00:42:03 - INFO - Synced history to backup: D:\SmartBackup\backups\SmartAppBackup\backup_history.json
+2026-08-04 00:42:03 - INFO - Marked folder as hidden: D:\SmartBackup\backups\SmartAppBackup
+2026-08-04 00:42:03 - INFO - Backup completed successfully: D:\SmartBackup\backups\SmartAppBackup\7-Zip 25.01 (x64)

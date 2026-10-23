@@ -1,0 +1,62 @@
+2026-02-27 08:41:29 - INFO - Logger initialized
+2026-02-27 08:41:29 - INFO - Loaded backup history
+2026-02-27 08:41:29 - INFO - Loaded backup history
+2026-02-27 08:41:30 - INFO - Scanning for installed applications...
+2026-02-27 08:41:30 - INFO - Found 42 installed applications
+2026-02-27 08:41:39 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-02-27 08:41:39 - INFO - Name variations: ['Igor Pavlov', '7-Zip_25.01_(x64)', '7-Zip25.01(x64)', '7-Zip-(x64)', '7-Zip']...
+2026-02-27 08:41:39 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-02-27 08:41:39 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-02-27 08:41:39 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-02-27 08:41:39 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-02-27 08:41:39 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-02-27 08:41:39 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-02-27 08:41:39 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-02-27 08:41:39 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-02-27 08:41:39 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:41:39 - INFO - Program Data: 1 locations
+2026-02-27 08:41:39 - INFO - User Data: 0 locations
+2026-02-27 08:41:39 - INFO - Custom Locations: 0 locations
+2026-02-27 08:41:39 - INFO - Registry Keys: 3 keys
+2026-02-27 08:41:39 - INFO - Shortcuts: 1 found
+2026-02-27 08:41:51 - INFO - Starting backup for: 7-Zip 25.01 (x64)
+2026-02-27 08:41:51 - INFO - Created backup structure: D:/New folder\SmartAppBackup\7-Zip 25.01 (x64)
+2026-02-27 08:41:51 - INFO - Copying Program Data: 7-Zip
+2026-02-27 08:41:51 - INFO - Backed up: C:\Program Files\7-Zip -> D:/New folder\SmartAppBackup\7-Zip 25.01 (x64)\ProgramData\ProgramFiles\7-Zip
+2026-02-27 08:41:51 - INFO - Backed up shortcut folder: 7-Zip
+2026-02-27 08:41:51 - INFO - Backed up shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip -> D:/New folder\SmartAppBackup\7-Zip 25.01 (x64)\Shortcuts\7-Zip
+2026-02-27 08:41:51 - INFO - Exporting registry keys...
+2026-02-27 08:41:51 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-02-27 08:41:51 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-02-27 08:41:51 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-02-27 08:41:51 - INFO - Exported 3 registry keys
+2026-02-27 08:41:51 - INFO - Created manifest: D:/New folder\SmartAppBackup\7-Zip 25.01 (x64)\manifest.json
+2026-02-27 08:41:51 - INFO - Added new backup for 7-Zip 25.01 (x64)
+2026-02-27 08:41:51 - INFO - Saved backup history
+2026-02-27 08:41:51 - INFO - Marked folder as hidden: D:/New folder\SmartAppBackup
+2026-02-27 08:41:51 - INFO - Backup completed successfully: D:/New folder\SmartAppBackup\7-Zip 25.01 (x64)
+2026-02-27 08:41:51 - INFO - Using silent uninstall for: 7-Zip 25.01 (x64)
+2026-02-27 08:41:51 - INFO - Uninstall command: "C:\Program Files\7-Zip\Uninstall.exe" /S
+2026-02-27 08:41:51 - INFO - Executing: C:\Program Files\7-Zip\Uninstall.exe /S
+2026-02-27 08:41:51 - INFO - Uninstaller exited with code 0 (success)
+2026-02-27 08:41:53 - INFO - Registry entry removed: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-02-27 08:41:53 - INFO - Install location removed: C:\Program Files\7-Zip\
+2026-02-27 08:41:53 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-02-27 08:41:53 - INFO - Name variations: ['Igor Pavlov', '7-Zip_25.01_(x64)', '7-Zip25.01(x64)', '7-Zip-(x64)', '7-Zip']...
+2026-02-27 08:41:53 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-27 08:41:53 - INFO - Scanning all drives for application...
+2026-02-27 08:41:53 - INFO - Scanning drive: D:\
+2026-02-27 08:41:53 - INFO - Scanning drive: E:\
+2026-02-27 08:41:53 - INFO - Scanning drive: F:\
+2026-02-27 08:41:53 - INFO - Scanning drive: G:\
+2026-02-27 08:41:53 - INFO - Scanning drive: H:\
+2026-02-27 08:41:53 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-02-27 08:41:53 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:41:53 - INFO - Program Data: 0 locations
+2026-02-27 08:41:53 - INFO - User Data: 0 locations
+2026-02-27 08:41:53 - INFO - Custom Locations: 0 locations
+2026-02-27 08:41:53 - INFO - Registry Keys: 1 keys
+2026-02-27 08:41:53 - INFO - Shortcuts: 0 found
+2026-02-27 08:41:53 - INFO - Successfully uninstalled 7-Zip 25.01 (x64)
+2026-02-27 08:41:57 - INFO - Scanning for installed applications...
+2026-02-27 08:41:57 - INFO - Found 41 installed applications

@@ -1,0 +1,162 @@
+2026-08-04 01:02:41 - INFO - Logger initialized
+2026-08-04 01:02:41 - INFO - Loaded backup history
+2026-08-04 01:02:41 - INFO - Loaded backup history
+2026-08-04 01:02:41 - INFO - Scanning for installed applications...
+2026-08-04 01:02:41 - INFO - Found 52 installed applications
+2026-08-04 01:02:43 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:02:43 - INFO - Name variations: ['7-zip25.01(x64)', 'com.7-zip.25.01', '7-Zip-(x64)', '7-Zip_(x64)', 'IgorPavlov']...
+2026-08-04 01:02:43 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:02:43 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:02:43 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:02:43 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:02:43 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:02:43 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:02:43 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:02:43 - INFO - Program Data: 1 locations
+2026-08-04 01:02:43 - INFO - User Data: 0 locations
+2026-08-04 01:02:43 - INFO - Custom Locations: 0 locations
+2026-08-04 01:02:43 - INFO - Registry Keys: 6 keys
+2026-08-04 01:02:43 - INFO - Shortcuts: 1 found
+2026-08-04 01:02:43 - INFO - === Comprehensive Scan for: AutoSubs ===
+2026-08-04 01:02:43 - INFO - Name variations: ['AutoSubs', 'autosubs.AutoSubs', 'autosubs', 'com.autosubs.autosubs']...
+2026-08-04 01:02:43 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\AutoSubs
+2026-08-04 01:02:43 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\autosubs
+2026-08-04 01:02:43 - INFO - ✓ Extracted installation directory from uninstall path: C:\Users\Hamza Ramzan\AppData\Local\AutoSubs
+2026-08-04 01:02:43 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\AutoSubs
+2026-08-04 01:02:43 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\AutoSubs
+2026-08-04 01:02:43 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\autosubs
+2026-08-04 01:02:43 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AutoSubs
+2026-08-04 01:02:43 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\AutoSubs.lnk
+2026-08-04 01:02:43 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:02:43 - INFO - Program Data: 0 locations
+2026-08-04 01:02:43 - INFO - User Data: 1 locations
+2026-08-04 01:02:43 - INFO - Custom Locations: 0 locations
+2026-08-04 01:02:43 - INFO - Registry Keys: 3 keys
+2026-08-04 01:02:43 - INFO - Shortcuts: 1 found
+2026-08-04 01:02:44 - INFO - === Comprehensive Scan for: BitTorrent ===
+2026-08-04 01:02:44 - INFO - Name variations: ['com.bittorrent limited.bittorrent', 'BitTorrentLimited', 'BitTorrent', 'BitTorrent Limited.BitTorrent', 'bittorrent limited']...
+2026-08-04 01:02:44 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:02:44 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\bittorrent
+2026-08-04 01:02:44 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:02:44 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\BitTorrent
+2026-08-04 01:02:44 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\bittorrent
+2026-08-04 01:02:44 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent
+2026-08-04 01:02:44 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BitTorrent.lnk
+2026-08-04 01:02:44 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\BitTorrent.lnk
+2026-08-04 01:02:44 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:02:44 - INFO - Program Data: 0 locations
+2026-08-04 01:02:44 - INFO - User Data: 1 locations
+2026-08-04 01:02:44 - INFO - Custom Locations: 0 locations
+2026-08-04 01:02:44 - INFO - Registry Keys: 3 keys
+2026-08-04 01:02:44 - INFO - Shortcuts: 2 found
+2026-08-04 01:02:50 - INFO - Starting backup for: BitTorrent
+2026-08-04 01:02:50 - INFO - Created backup structure: D:\SmartBackup\backups\SmartAppBackup\BitTorrent
+2026-08-04 01:02:50 - INFO - Copying User Data: BitTorrent
+2026-08-04 01:02:52 - INFO - Backed up: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent -> D:\SmartBackup\backups\SmartAppBackup\BitTorrent\UserData\Roaming\BitTorrent
+2026-08-04 01:02:52 - INFO - Backed up shortcut: BitTorrent.lnk
+2026-08-04 01:02:52 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BitTorrent.lnk -> D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Shortcuts\BitTorrent.lnk
+2026-08-04 01:02:52 - INFO - Backed up shortcut: BitTorrent.lnk
+2026-08-04 01:02:52 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\Desktop\BitTorrent.lnk -> D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Shortcuts\BitTorrent.lnk
+2026-08-04 01:02:52 - INFO - Exporting registry keys...
+2026-08-04 01:02:52 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\BitTorrent -> registry_1.reg
+2026-08-04 01:02:52 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\bittorrent -> registry_2.reg
+2026-08-04 01:02:52 - INFO - Exported registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent -> registry_3.reg
+2026-08-04 01:02:52 - INFO - Generated registry restore scripts (restore_registry.bat & restore_registry.ps1)
+2026-08-04 01:02:52 - INFO - Exported 3 registry keys
+2026-08-04 01:02:55 - INFO - Created manifest with system metadata: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\manifest.json
+2026-08-04 01:02:58 - INFO - Added new backup for BitTorrent
+2026-08-04 01:02:58 - INFO - Saved backup history (local)
+2026-08-04 01:02:58 - INFO - Synced history to backup: D:\SmartBackup\backups\SmartAppBackup\backup_history.json
+2026-08-04 01:02:58 - INFO - Marked folder as hidden: D:\SmartBackup\backups\SmartAppBackup
+2026-08-04 01:02:58 - INFO - Backup completed successfully: D:\SmartBackup\backups\SmartAppBackup\BitTorrent
+2026-08-04 01:04:27 - INFO - === Comprehensive Scan for: Blackmagic RAW Common Components ===
+2026-08-04 01:04:27 - INFO - Name variations: ['com.blackmagic.raw', 'Blackmagic Design', 'blackmagic design', 'blackmagic raw common components', 'BlackmagicDesign']...
+2026-08-04 01:04:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Blackmagic Design
+2026-08-04 01:04:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\blackmagic design
+2026-08-04 01:04:27 - INFO - ✓ Found program_data: C:\ProgramData\Blackmagic Design
+2026-08-04 01:04:27 - INFO - ✓ Found program_data: C:\ProgramData\blackmagic design
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Blackmagic Design
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\blackmagic design
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Blackmagic Design
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\blackmagic design
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Blackmagic Design
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Public\Documents\blackmagic design
+2026-08-04 01:04:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Blackmagic Design\Blackmagic RAW
+2026-08-04 01:04:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Blackmagic Design
+2026-08-04 01:04:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\blackmagic design
+2026-08-04 01:04:27 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FCDBA071-A602-43E6-BFD4-4A6AC43D3556}
+2026-08-04 01:04:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Blackmagic Design
+2026-08-04 01:04:27 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:04:27 - INFO - Program Data: 3 locations
+2026-08-04 01:04:27 - INFO - User Data: 3 locations
+2026-08-04 01:04:27 - INFO - Custom Locations: 0 locations
+2026-08-04 01:04:27 - INFO - Registry Keys: 3 keys
+2026-08-04 01:04:27 - INFO - Shortcuts: 1 found
+2026-08-04 01:04:27 - INFO - === Comprehensive Scan for: BitTorrent ===
+2026-08-04 01:04:27 - INFO - Name variations: ['com.bittorrent limited.bittorrent', 'BitTorrentLimited', 'BitTorrent', 'BitTorrent Limited.BitTorrent', 'bittorrent limited']...
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:04:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\bittorrent
+2026-08-04 01:04:27 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:04:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\BitTorrent
+2026-08-04 01:04:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\bittorrent
+2026-08-04 01:04:27 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent
+2026-08-04 01:04:27 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BitTorrent.lnk
+2026-08-04 01:04:27 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\BitTorrent.lnk
+2026-08-04 01:04:27 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:04:27 - INFO - Program Data: 0 locations
+2026-08-04 01:04:27 - INFO - User Data: 1 locations
+2026-08-04 01:04:27 - INFO - Custom Locations: 0 locations
+2026-08-04 01:04:27 - INFO - Registry Keys: 3 keys
+2026-08-04 01:04:27 - INFO - Shortcuts: 2 found
+2026-08-04 01:04:31 - INFO - Starting backup for: BitTorrent
+2026-08-04 01:04:31 - INFO - Created backup structure: D:\SmartBackup\backups\SmartAppBackup\BitTorrent
+2026-08-04 01:04:31 - INFO - Copying User Data: BitTorrent
+2026-08-04 01:04:32 - INFO - Backed up: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent -> D:\SmartBackup\backups\SmartAppBackup\BitTorrent\UserData\Roaming\BitTorrent
+2026-08-04 01:04:32 - INFO - Backed up shortcut: BitTorrent.lnk
+2026-08-04 01:04:32 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BitTorrent.lnk -> D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Shortcuts\BitTorrent.lnk
+2026-08-04 01:04:32 - INFO - Backed up shortcut: BitTorrent.lnk
+2026-08-04 01:04:32 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\Desktop\BitTorrent.lnk -> D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Shortcuts\BitTorrent.lnk
+2026-08-04 01:04:32 - INFO - Exporting registry keys...
+2026-08-04 01:04:32 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\BitTorrent -> registry_1.reg
+2026-08-04 01:04:32 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\bittorrent -> registry_2.reg
+2026-08-04 01:04:32 - INFO - Exported registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent -> registry_3.reg
+2026-08-04 01:04:32 - INFO - Generated registry restore scripts (restore_registry.bat & restore_registry.ps1)
+2026-08-04 01:04:32 - INFO - Exported 3 registry keys
+2026-08-04 01:04:35 - INFO - Created manifest with system metadata: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\manifest.json
+2026-08-04 01:04:38 - INFO - Merged backup for BitTorrent (#2)
+2026-08-04 01:04:38 - INFO - Saved backup history (local)
+2026-08-04 01:04:38 - INFO - Synced history to backup: D:\SmartBackup\backups\SmartAppBackup\backup_history.json
+2026-08-04 01:04:38 - INFO - Marked folder as hidden: D:\SmartBackup\backups\SmartAppBackup
+2026-08-04 01:04:38 - INFO - Backup completed successfully: D:\SmartBackup\backups\SmartAppBackup\BitTorrent
+2026-08-04 01:04:38 - INFO - Using standard uninstall for: BitTorrent
+2026-08-04 01:04:38 - INFO - Uninstall command: "C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent\BitTorrent.exe" /UNINSTALL
+2026-08-04 01:04:38 - INFO - Executing: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent\BitTorrent.exe /UNINSTALL
+2026-08-04 01:04:43 - INFO - Uninstaller exited with code 0 (success)
+2026-08-04 01:04:45 - INFO - Registry entry removed: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent
+2026-08-04 01:04:45 - INFO - Install location removed: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:04:45 - INFO - === Comprehensive Scan for: BitTorrent ===
+2026-08-04 01:04:45 - INFO - Name variations: ['com.bittorrent limited.bittorrent', 'BitTorrentLimited', 'BitTorrent', 'BitTorrent Limited.BitTorrent', 'bittorrent limited']...
+2026-08-04 01:04:45 - INFO - No paths found in standard locations, scanning all drives...
+2026-08-04 01:04:45 - INFO - Scanning all drives for application...
+2026-08-04 01:04:45 - INFO - Scanning drive: D:\
+2026-08-04 01:04:45 - INFO - Scanning drive: E:\
+2026-08-04 01:04:45 - INFO - Scanning drive: F:\
+2026-08-04 01:04:45 - INFO - Scanning drive: G:\
+2026-08-04 01:04:45 - INFO - Scanning drive: H:\
+2026-08-04 01:04:45 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent
+2026-08-04 01:04:45 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:04:45 - INFO - Program Data: 0 locations
+2026-08-04 01:04:45 - INFO - User Data: 0 locations
+2026-08-04 01:04:45 - INFO - Custom Locations: 0 locations
+2026-08-04 01:04:45 - INFO - Registry Keys: 1 keys
+2026-08-04 01:04:45 - INFO - Shortcuts: 0 found
+2026-08-04 01:04:45 - INFO - Successfully uninstalled BitTorrent
+2026-08-04 01:04:47 - INFO - Scanning for installed applications...
+2026-08-04 01:04:47 - INFO - Found 51 installed applications

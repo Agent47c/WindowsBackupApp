@@ -1,0 +1,17 @@
+2026-02-06 20:49:17 - INFO - Logger initialized
+2026-02-06 20:49:17 - INFO - Loaded backup history
+2026-02-06 20:49:17 - INFO - Loaded backup history
+2026-02-06 20:49:18 - INFO - Scanning for installed applications...
+2026-02-06 20:49:18 - INFO - Found 48 installed applications
+2026-02-06 20:50:48 - INFO - Starting backup for: OBS Studio
+2026-02-06 20:50:48 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\OBS Studio
+2026-02-06 20:50:48 - INFO - Exporting registry keys...
+2026-02-06 20:50:48 - WARNING - Registry export failed: ERROR: The system was unable to find the specified registry key or value.
+
+2026-02-06 20:50:48 - WARNING - Failed to export registry key: HKEY_CURRENT_USER\Software\OBS Studio
+2026-02-06 20:50:48 - INFO - Exported 0 registry keys
+2026-02-06 20:50:48 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\OBS Studio\manifest.json
+2026-02-06 20:50:48 - INFO - Merged backup for OBS Studio (backup #4)
+2026-02-06 20:50:48 - INFO - Saved backup history
+2026-02-06 20:50:48 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 20:50:48 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\OBS Studio

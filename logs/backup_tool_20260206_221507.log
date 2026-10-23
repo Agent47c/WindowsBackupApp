@@ -1,0 +1,41 @@
+2026-02-06 22:15:07 - INFO - Logger initialized
+2026-02-06 22:15:07 - INFO - Loaded backup history
+2026-02-06 22:15:07 - INFO - Loaded backup history
+2026-02-06 22:15:08 - INFO - Scanning for installed applications...
+2026-02-06 22:15:08 - INFO - Found 47 installed applications
+2026-02-06 22:15:15 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-06 22:15:15 - INFO - Name variations: ['msico.', 'MSI.Afterburner.4.6.5', 'MSI_Afterburner_4.6.5', 'msi co.', 'MSI Afterburner']...
+2026-02-06 22:15:15 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-06 22:15:15 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-06 22:15:15 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 22:15:15 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-06 22:15:15 - INFO - === SCAN COMPLETE ===
+2026-02-06 22:15:15 - INFO - Program Data: 1 locations
+2026-02-06 22:15:15 - INFO - User Data: 0 locations
+2026-02-06 22:15:15 - INFO - Custom Locations: 0 locations
+2026-02-06 22:15:15 - INFO - Registry Keys: 2 keys
+2026-02-06 22:15:33 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-06 22:15:33 - INFO - Name variations: ['msico.', 'MSI.Afterburner.4.6.5', 'MSI_Afterburner_4.6.5', 'msi co.', 'MSI Afterburner']...
+2026-02-06 22:15:33 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-06 22:15:33 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-06 22:15:33 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 22:15:33 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-06 22:15:33 - INFO - === SCAN COMPLETE ===
+2026-02-06 22:15:33 - INFO - Program Data: 1 locations
+2026-02-06 22:15:33 - INFO - User Data: 0 locations
+2026-02-06 22:15:33 - INFO - Custom Locations: 0 locations
+2026-02-06 22:15:33 - INFO - Registry Keys: 2 keys
+2026-02-06 22:15:33 - INFO - Starting backup for: MSI Afterburner 4.6.5
+2026-02-06 22:15:33 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5
+2026-02-06 22:15:33 - INFO - Copying Program Data: MSI Afterburner
+2026-02-06 22:15:37 - INFO - Backed up: C:\Program Files (x86)\MSI Afterburner -> E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData\ProgramFiles_x86\MSI Afterburner
+2026-02-06 22:15:37 - INFO - Exporting registry keys...
+2026-02-06 22:15:37 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-06 22:15:37 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 22:15:37 - INFO - Exported 2 registry keys
+2026-02-06 22:15:37 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\manifest.json
+2026-02-06 22:15:37 - INFO - Added new backup for MSI Afterburner 4.6.5
+2026-02-06 22:15:37 - INFO - Saved backup history
+2026-02-06 22:15:37 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 22:15:37 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5
+2026-02-06 22:16:20 - INFO - Error: Could not find manifest file

@@ -1,0 +1,111 @@
+{
+  "version": "2.0",
+  "created": "2026-08-04T00:41:57.458946",
+  "last_updated": "2026-08-04T01:04:38.276711",
+  "backups": {
+    "7-Zip 25.01 (x64)": {
+      "app_name": "7-Zip 25.01 (x64)",
+      "backup_location": "D:\\SmartBackup\\backups\\SmartAppBackup\\7-Zip 25.01 (x64)",
+      "last_backup": "2026-08-04T00:47:02.818650",
+      "windows_username": "Hamza Ramzan",
+      "system_info": {
+        "user_info": {
+          "username": "Hamza Ramzan",
+          "domain": "Hamza-Pc",
+          "user_profile": "C:\\Users\\Hamza Ramzan"
+        },
+        "computer_info": {
+          "computer_name": "HAMZA-PC",
+          "machine_guid": "650b4e0c-2e51-4943-b0c6-3f844a4233d4",
+          "hardware_uuid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF"
+        },
+        "hardware_info": {
+          "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+          "ram": "15.91 GB",
+          "motherboard": "ASUSTeK COMPUTER INC. PRIME B450M-K",
+          "architecture": "AMD64"
+        },
+        "os_info": {
+          "os_name": "Windows",
+          "os_version": "10.0.26200",
+          "os_release": "11",
+          "os_architecture": "64bit",
+          "os_build": "26200",
+          "product_name": "Windows 10 Pro",
+          "display_version": "25H2"
+        }
+      },
+      "source_paths": {
+        "program_data": [
+          "C:\\Program Files\\7-Zip"
+        ],
+        "user_data": [],
+        "custom_locations": [],
+        "shortcuts": [
+          "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip"
+        ]
+      },
+      "registry_files": [
+        "registry_6.reg",
+        "registry_2.reg",
+        "registry_1.reg",
+        "registry_3.reg",
+        "registry_4.reg",
+        "registry_5.reg"
+      ],
+      "backup_count": 3,
+      "first_backup": "2026-08-04T00:42:01.043687"
+    },
+    "BitTorrent": {
+      "app_name": "BitTorrent",
+      "backup_location": "D:\\SmartBackup\\backups\\SmartAppBackup\\BitTorrent",
+      "last_backup": "2026-08-04T01:04:35.571513",
+      "windows_username": "Hamza Ramzan",
+      "system_info": {
+        "user_info": {
+          "username": "Hamza Ramzan",
+          "domain": "Hamza-Pc",
+          "user_profile": "C:\\Users\\Hamza Ramzan"
+        },
+        "computer_info": {
+          "computer_name": "HAMZA-PC",
+          "machine_guid": "650b4e0c-2e51-4943-b0c6-3f844a4233d4",
+          "hardware_uuid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF"
+        },
+        "hardware_info": {
+          "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+          "ram": "15.91 GB",
+          "motherboard": "ASUSTeK COMPUTER INC. PRIME B450M-K",
+          "architecture": "AMD64"
+        },
+        "os_info": {
+          "os_name": "Windows",
+          "os_version": "10.0.26200",
+          "os_release": "11",
+          "os_architecture": "64bit",
+          "os_build": "26200",
+          "product_name": "Windows 10 Pro",
+          "display_version": "25H2"
+        }
+      },
+      "source_paths": {
+        "program_data": [],
+        "user_data": [
+          "C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\BitTorrent"
+        ],
+        "custom_locations": [],
+        "shortcuts": [
+          "C:\\Users\\Hamza Ramzan\\Desktop\\BitTorrent.lnk",
+          "C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\BitTorrent.lnk"
+        ]
+      },
+      "registry_files": [
+        "registry_1.reg",
+        "registry_2.reg",
+        "registry_3.reg"
+      ],
+      "backup_count": 2,
+      "first_backup": "2026-08-04T01:02:55.435133"
+    }
+  }
+}

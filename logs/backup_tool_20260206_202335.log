@@ -1,0 +1,17 @@
+2026-02-06 20:23:35 - INFO - Logger initialized
+2026-02-06 20:23:35 - INFO - Loaded backup history
+2026-02-06 20:23:35 - INFO - Loaded backup history
+2026-02-06 20:23:35 - INFO - Scanning for installed applications...
+2026-02-06 20:23:35 - INFO - Found 48 installed applications
+2026-02-06 20:23:56 - INFO - Starting backup for: GameLoop
+2026-02-06 20:23:56 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\GameLoop
+2026-02-06 20:23:56 - INFO - Exporting registry keys...
+2026-02-06 20:23:56 - WARNING - Registry export failed: ERROR: The system was unable to find the specified registry key or value.
+
+2026-02-06 20:23:56 - WARNING - Failed to export registry key: HKEY_CURRENT_USER\Software\GameLoop
+2026-02-06 20:23:56 - INFO - Exported 0 registry keys
+2026-02-06 20:23:56 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\GameLoop\manifest.json
+2026-02-06 20:23:56 - INFO - Added new backup for GameLoop
+2026-02-06 20:23:56 - INFO - Saved backup history
+2026-02-06 20:23:56 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 20:23:56 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\GameLoop

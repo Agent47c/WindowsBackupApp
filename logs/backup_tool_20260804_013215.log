@@ -1,0 +1,217 @@
+2026-08-04 01:32:15 - [logger.py:81] - INFO - Logger initialized
+2026-08-04 01:32:15 - [logger.py:81] - INFO - Loaded backup history
+2026-08-04 01:32:15 - [logger.py:81] - INFO - Loaded backup history
+2026-08-04 01:32:16 - [logger.py:81] - INFO - Scanning for installed applications...
+2026-08-04 01:32:16 - [logger.py:81] - INFO - Found 52 installed applications
+2026-08-04 01:32:45 - [logger.py:81] - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Name variations: ['7-zip25.01(x64)', '7-Zip25.01(x64)', '7-Zip-25.01-(x64)', '7-Zip(x64)', 'igor pavlov']...
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:32:45 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Program Data: 1 locations
+2026-08-04 01:32:45 - [logger.py:81] - INFO - User Data: 0 locations
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Registry Keys: 6 keys
+2026-08-04 01:32:45 - [logger.py:81] - INFO - Shortcuts: 1 found
+2026-08-04 01:32:46 - [logger.py:81] - INFO - === Comprehensive Scan for: Adobe After Effects 2025 ===
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Name variations: ['Adobe_After_Effects_2025', 'Adobe-After-Effects', 'adobeaftereffects2025', 'Adobe.Effects', 'com.adobe.effects']...
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files (x86)\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\ProgramData\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\After Effects
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\After Effects 2025
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\After Effects 2025
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AEFT_25_4
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:32:46 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Program Data: 16 locations
+2026-08-04 01:32:46 - [logger.py:81] - INFO - User Data: 20 locations
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Registry Keys: 7 keys
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Shortcuts: 5 found
+2026-08-04 01:32:46 - [logger.py:81] - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Name variations: ['adobe premiere pro 2025', 'Adobe-Premiere-Pro', 'Adobe.Premiere.Pro.2025', 'AdobePremierePro', 'Adobe.Pro']...
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:32:46 - [logger.py:81] - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files (x86)\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Adobe.
+2026-08-04 01:32:46 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\ProgramData\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:32:47 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Program Data: 16 locations
+2026-08-04 01:32:47 - [logger.py:81] - INFO - User Data: 21 locations
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Registry Keys: 7 keys
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Shortcuts: 5 found
+2026-08-04 01:32:47 - [logger.py:81] - INFO - === Comprehensive Scan for: AEJuice Pack Manager version 26.04.1035 ===
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Name variations: ['AEJuicePackManagerversion', 'AEJuice.Pack.Manager.version', 'AEJuice-Pack-Manager-version', 'AEJuice_Pack_Manager_version', 'aejuice-pack-manager-version-26.04.1035']...
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Common Files\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Common Files\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\AEJuice Pack Manager
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\AEJuice Pack Manager
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Added full installation folder: C:\Program Files\AEJuice Pack Manager
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\AEJuice Pack Manager
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice\AEJuice Pack Manager for Premiere Pro
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice\AEJuice Pack Manager V2
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice\Pack Manager
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\AEJuice\AEJuice Pack Manager V2
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\AEJuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\aejuice
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{A38A03B4-EC8B-4BBB-B6EE-5ED8D5893B64}_is1
+2026-08-04 01:32:47 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AEJuice Pack Manager Standalone.lnk
+2026-08-04 01:32:47 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Program Data: 3 locations
+2026-08-04 01:32:47 - [logger.py:81] - INFO - User Data: 7 locations
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Registry Keys: 5 keys
+2026-08-04 01:32:47 - [logger.py:81] - INFO - Shortcuts: 1 found

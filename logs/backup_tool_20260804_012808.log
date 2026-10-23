@@ -1,0 +1,68 @@
+2026-08-04 01:28:08 - [logger.py:81] - INFO - Logger initialized
+2026-08-04 01:28:08 - [logger.py:81] - INFO - Logger initialized
+2026-08-04 01:28:08 - [logger.py:81] - INFO - Loaded backup history
+2026-08-04 01:28:08 - [logger.py:81] - INFO - Loaded backup history
+2026-08-04 01:28:09 - [logger.py:81] - INFO - Scanning for installed applications...
+2026-08-04 01:28:09 - [logger.py:81] - INFO - Found 52 installed applications
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Scanning for installed applications...
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Found 52 installed applications
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Scanning for installed applications...
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Found 52 installed applications
+2026-08-04 01:28:11 - [logger.py:81] - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Name variations: ['7-Zip (x64)', '7-Zip(x64)', '7-Zip_25.01_(x64)', 'igor pavlov', 'com.7-zip.25.01']...
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:28:11 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Program Data: 1 locations
+2026-08-04 01:28:11 - [logger.py:81] - INFO - User Data: 0 locations
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Registry Keys: 6 keys
+2026-08-04 01:28:11 - [logger.py:81] - INFO - Shortcuts: 1 found
+2026-08-04 01:28:12 - [logger.py:81] - INFO - === Comprehensive Scan for: Antigravity (User) ===
+2026-08-04 01:28:12 - [logger.py:81] - INFO - Name variations: ['Antigravity-(User)', 'antigravity (user)', 'com.google.(user)', 'Antigravity(User)', 'Antigravity.(User)']...
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files (x86)\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found program_data: C:\ProgramData\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Antigravity
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:28:12 - [logger.py:81] - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Added full installation folder: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:28:12 - [logger.py:81] - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Google\GoogleUpdater
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\google
+2026-08-04 01:28:12 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google
+2026-08-04 01:28:13 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AA73B3E3-C6C8-45C8-B1DC-4AE56C751432}_is1
+2026-08-04 01:28:13 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+2026-08-04 01:28:13 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Drive.lnk
+2026-08-04 01:28:13 - [logger.py:81] - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity
+2026-08-04 01:28:13 - [logger.py:81] - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Google Drive.lnk
+2026-08-04 01:28:13 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:28:13 - [logger.py:81] - INFO - Program Data: 4 locations
+2026-08-04 01:28:13 - [logger.py:81] - INFO - User Data: 3 locations
+2026-08-04 01:28:13 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:28:13 - [logger.py:81] - INFO - Registry Keys: 7 keys
+2026-08-04 01:28:13 - [logger.py:81] - INFO - Shortcuts: 4 found

@@ -1,0 +1,22 @@
+2026-02-06 22:08:38 - INFO - Logger initialized
+2026-02-06 22:08:38 - INFO - Loaded backup history
+2026-02-06 22:08:38 - INFO - Loaded backup history
+2026-02-06 22:08:38 - INFO - Scanning for installed applications...
+2026-02-06 22:08:38 - INFO - Found 47 installed applications
+2026-02-06 22:08:42 - INFO - === Comprehensive Scan for: Cloudflare WARP ===
+2026-02-06 22:08:42 - INFO - Name variations: ['Cloudflare WARP', 'cloudflare warp', 'cloudflare', 'Cloudflare.WARP', 'cloudflarewarp']...
+2026-02-06 22:08:42 - INFO - ✓ Found program_data: C:\Program Files\cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found program_data: C:\Program Files\Cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found program_data: C:\ProgramData\cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found program_data: C:\ProgramData\Cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\cloudflare
+2026-02-06 22:08:42 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Cloudflare
+2026-02-06 22:08:42 - INFO - === SCAN COMPLETE ===
+2026-02-06 22:08:42 - INFO - Program Data: 2 locations
+2026-02-06 22:08:42 - INFO - User Data: 1 locations
+2026-02-06 22:08:42 - INFO - Custom Locations: 0 locations
+2026-02-06 22:08:42 - INFO - Registry Keys: 2 keys
+2026-02-06 22:09:28 - ERROR - Invalid manifest: missing field 'version'
+2026-02-06 22:09:28 - INFO - Error: Invalid manifest file

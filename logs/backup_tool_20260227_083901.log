@@ -1,0 +1,122 @@
+2026-02-27 08:39:01 - INFO - Logger initialized
+2026-02-27 08:39:01 - INFO - Loaded backup history
+2026-02-27 08:39:01 - INFO - Loaded backup history
+2026-02-27 08:39:01 - INFO - Scanning for installed applications...
+2026-02-27 08:39:01 - INFO - Found 42 installed applications
+2026-02-27 08:39:07 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-27 08:39:07 - INFO - Name variations: ['MSIAfterburner4.6.5', 'MSICo.', 'MSI_Afterburner', 'MSI_Afterburner_4.6.5', 'MSI Afterburner 4.6.5']...
+2026-02-27 08:39:07 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:39:07 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-27 08:39:07 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:39:07 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:39:07 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:07 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner
+2026-02-27 08:39:07 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk
+2026-02-27 08:39:07 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:39:07 - INFO - Program Data: 1 locations
+2026-02-27 08:39:07 - INFO - User Data: 0 locations
+2026-02-27 08:39:07 - INFO - Custom Locations: 0 locations
+2026-02-27 08:39:07 - INFO - Registry Keys: 3 keys
+2026-02-27 08:39:07 - INFO - Shortcuts: 2 found
+2026-02-27 08:39:30 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-27 08:39:30 - INFO - Name variations: ['MSIAfterburner4.6.5', 'MSICo.', 'MSI_Afterburner', 'MSI_Afterburner_4.6.5', 'MSI Afterburner 4.6.5']...
+2026-02-27 08:39:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:39:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:39:30 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk
+2026-02-27 08:39:30 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:39:30 - INFO - Program Data: 1 locations
+2026-02-27 08:39:30 - INFO - User Data: 0 locations
+2026-02-27 08:39:30 - INFO - Custom Locations: 0 locations
+2026-02-27 08:39:30 - INFO - Registry Keys: 3 keys
+2026-02-27 08:39:30 - INFO - Shortcuts: 2 found
+2026-02-27 08:39:30 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-27 08:39:30 - INFO - Name variations: ['MSIAfterburner4.6.5', 'MSICo.', 'MSI_Afterburner', 'MSI_Afterburner_4.6.5', 'MSI Afterburner 4.6.5']...
+2026-02-27 08:39:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:39:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:39:30 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner
+2026-02-27 08:39:30 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk
+2026-02-27 08:39:30 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:39:30 - INFO - Program Data: 1 locations
+2026-02-27 08:39:30 - INFO - User Data: 0 locations
+2026-02-27 08:39:30 - INFO - Custom Locations: 0 locations
+2026-02-27 08:39:30 - INFO - Registry Keys: 3 keys
+2026-02-27 08:39:30 - INFO - Shortcuts: 2 found
+2026-02-27 08:39:32 - INFO - Starting backup for: MSI Afterburner 4.6.5
+2026-02-27 08:39:32 - INFO - Created backup structure: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5
+2026-02-27 08:39:32 - INFO - Copying Program Data: MSI Afterburner
+2026-02-27 08:39:34 - INFO - Backed up: C:\Program Files (x86)\MSI Afterburner -> D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData\ProgramFiles_x86\MSI Afterburner
+2026-02-27 08:39:34 - INFO - Backed up shortcut folder: MSI Afterburner
+2026-02-27 08:39:34 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner -> D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Shortcuts\MSI Afterburner
+2026-02-27 08:39:34 - INFO - Backed up shortcut: MSI Afterburner.lnk
+2026-02-27 08:39:34 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk -> D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Shortcuts\MSI Afterburner.lnk
+2026-02-27 08:39:34 - INFO - Exporting registry keys...
+2026-02-27 08:39:34 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:39:34 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:39:34 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:34 - INFO - Exported 3 registry keys
+2026-02-27 08:39:34 - INFO - Created manifest: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\manifest.json
+2026-02-27 08:39:34 - INFO - Merged backup for MSI Afterburner 4.6.5 (backup #3)
+2026-02-27 08:39:34 - INFO - Saved backup history
+2026-02-27 08:39:34 - INFO - Marked folder as hidden: D:/New folder\SmartAppBackup
+2026-02-27 08:39:34 - INFO - Backup completed successfully: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5
+2026-02-27 08:39:38 - INFO - Starting backup for: MSI Afterburner 4.6.5
+2026-02-27 08:39:38 - INFO - Created backup structure: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5
+2026-02-27 08:39:38 - INFO - Copying Program Data: MSI Afterburner
+2026-02-27 08:39:40 - INFO - Backed up: C:\Program Files (x86)\MSI Afterburner -> D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData\ProgramFiles_x86\MSI Afterburner
+2026-02-27 08:39:40 - INFO - Backed up shortcut folder: MSI Afterburner
+2026-02-27 08:39:40 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner -> D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Shortcuts\MSI Afterburner
+2026-02-27 08:39:40 - INFO - Backed up shortcut: MSI Afterburner.lnk
+2026-02-27 08:39:40 - INFO - Backed up shortcut: C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk -> D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Shortcuts\MSI Afterburner.lnk
+2026-02-27 08:39:40 - INFO - Exporting registry keys...
+2026-02-27 08:39:40 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:39:40 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:39:40 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:40 - INFO - Exported 3 registry keys
+2026-02-27 08:39:40 - INFO - Created manifest: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\manifest.json
+2026-02-27 08:39:40 - INFO - Merged backup for MSI Afterburner 4.6.5 (backup #4)
+2026-02-27 08:39:40 - INFO - Saved backup history
+2026-02-27 08:39:40 - INFO - Marked folder as hidden: D:/New folder\SmartAppBackup
+2026-02-27 08:39:40 - INFO - Backup completed successfully: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5
+2026-02-27 08:39:40 - INFO - Using standard uninstall for: MSI Afterburner 4.6.5
+2026-02-27 08:39:40 - INFO - Uninstall command: "C:\Program Files (x86)\MSI Afterburner\uninstall.exe"
+2026-02-27 08:39:40 - INFO - Executing: C:\Program Files (x86)\MSI Afterburner\uninstall.exe
+2026-02-27 08:39:41 - INFO - Uninstaller exited with code 0 (success)
+2026-02-27 08:39:43 - INFO - Registry entry still exists: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:43 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-27 08:39:43 - INFO - Name variations: ['MSIAfterburner4.6.5', 'MSICo.', 'MSI_Afterburner', 'MSI_Afterburner_4.6.5', 'MSI Afterburner 4.6.5']...
+2026-02-27 08:39:43 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:39:43 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-27 08:39:43 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:39:43 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:39:43 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:39:43 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner
+2026-02-27 08:39:43 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk
+2026-02-27 08:39:43 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:39:43 - INFO - Program Data: 1 locations
+2026-02-27 08:39:43 - INFO - User Data: 0 locations
+2026-02-27 08:39:43 - INFO - Custom Locations: 0 locations
+2026-02-27 08:39:43 - INFO - Registry Keys: 3 keys
+2026-02-27 08:39:43 - INFO - Shortcuts: 2 found
+2026-02-27 08:39:43 - INFO - Uninstaller completed but registry entry still exists. This may require a restart.
+2026-02-27 08:39:44 - INFO - Scanning for installed applications...
+2026-02-27 08:39:44 - INFO - Found 42 installed applications
+2026-02-27 08:40:11 - INFO - === Comprehensive Scan for: MSI Afterburner 4.6.5 ===
+2026-02-27 08:40:11 - INFO - Name variations: ['MSIAfterburner4.6.5', 'MSICo.', 'MSI_Afterburner', 'MSI_Afterburner_4.6.5', 'MSI Afterburner 4.6.5']...
+2026-02-27 08:40:11 - INFO - ✓ Found program_data: C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:40:11 - INFO - ✓ Found program_data: C:\Program Files (x86)\msi afterburner
+2026-02-27 08:40:11 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-27 08:40:11 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-27 08:40:11 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Afterburner
+2026-02-27 08:40:11 - INFO - === SCAN COMPLETE ===
+2026-02-27 08:40:11 - INFO - Program Data: 1 locations
+2026-02-27 08:40:11 - INFO - User Data: 0 locations
+2026-02-27 08:40:11 - INFO - Custom Locations: 0 locations
+2026-02-27 08:40:11 - INFO - Registry Keys: 3 keys
+2026-02-27 08:40:11 - INFO - Shortcuts: 0 found

@@ -1,0 +1,362 @@
+2026-08-04 01:13:54 - INFO - Logger initialized
+2026-08-04 01:13:54 - INFO - Loaded backup history
+2026-08-04 01:13:54 - INFO - Loaded backup history
+2026-08-04 01:13:55 - INFO - Scanning for installed applications...
+2026-08-04 01:13:55 - INFO - Found 52 installed applications
+2026-08-04 01:13:57 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:13:57 - INFO - Name variations: ['7-Zip', '7-Zip.25.01.(x64)', '7-Zip_25.01_(x64)', 'com.7-zip.25.01', '7-Zip(x64)']...
+2026-08-04 01:13:57 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:13:57 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:13:57 - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:13:57 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:13:57 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:13:57 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:13:57 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:57 - INFO - Program Data: 1 locations
+2026-08-04 01:13:57 - INFO - User Data: 0 locations
+2026-08-04 01:13:57 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:57 - INFO - Registry Keys: 6 keys
+2026-08-04 01:13:57 - INFO - Shortcuts: 1 found
+2026-08-04 01:13:58 - INFO - === Comprehensive Scan for: Adobe Creative Cloud ===
+2026-08-04 01:13:58 - INFO - Name variations: ['Adobe', 'Adobe Creative Cloud', 'Adobe_Creative_Cloud', 'com.adobe.cloud', 'adobecreativecloud']...
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:13:58 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:13:58 - INFO - Scanning install location: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:13:58 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files (x86)\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\ProgramData\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:13:58 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Creative Cloud
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:13:58 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:58 - INFO - Program Data: 16 locations
+2026-08-04 01:13:58 - INFO - User Data: 17 locations
+2026-08-04 01:13:58 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:58 - INFO - Registry Keys: 7 keys
+2026-08-04 01:13:58 - INFO - Shortcuts: 5 found
+2026-08-04 01:13:58 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2025 ===
+2026-08-04 01:13:58 - INFO - Name variations: ['Adobe', 'com.adobe.pro', 'Adobe_Premiere_Pro_2025', 'Adobe Premiere Pro 2025', 'adobepremierepro2025']...
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:13:58 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:13:58 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:13:58 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:13:58 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files (x86)\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\ProgramData\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2025
+2026-08-04 01:13:58 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:13:58 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_25_4
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:13:58 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:58 - INFO - Program Data: 16 locations
+2026-08-04 01:13:58 - INFO - User Data: 21 locations
+2026-08-04 01:13:58 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:58 - INFO - Registry Keys: 7 keys
+2026-08-04 01:13:58 - INFO - Shortcuts: 5 found
+2026-08-04 01:13:58 - INFO - === Comprehensive Scan for: Antigravity (User) ===
+2026-08-04 01:13:58 - INFO - Name variations: ['Antigravity.(User)', 'google', 'antigravity (user)', 'com.antigravity.(user)', 'Google']...
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\google
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files\Google
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\google
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\Program Files (x86)\Google
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\ProgramData\google
+2026-08-04 01:13:58 - INFO - ✓ Found program_data: C:\ProgramData\Google
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Antigravity
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\google
+2026-08-04 01:13:58 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Google
+2026-08-04 01:13:58 - INFO - ✓ Extracted installation directory from uninstall path: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:13:58 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:13:58 - INFO - ✓ Added full installation folder: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:13:58 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Programs\Antigravity
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Google
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Google
+2026-08-04 01:13:58 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Google\GoogleUpdater
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Google
+2026-08-04 01:13:58 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Google
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\google
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Google
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\google
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Google
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\google
+2026-08-04 01:13:58 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google
+2026-08-04 01:13:58 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AA73B3E3-C6C8-45C8-B1DC-4AE56C751432}_is1
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Drive.lnk
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity
+2026-08-04 01:13:58 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Google Drive.lnk
+2026-08-04 01:13:58 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:58 - INFO - Program Data: 4 locations
+2026-08-04 01:13:58 - INFO - User Data: 3 locations
+2026-08-04 01:13:58 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:58 - INFO - Registry Keys: 7 keys
+2026-08-04 01:13:58 - INFO - Shortcuts: 4 found
+2026-08-04 01:13:59 - INFO - === Comprehensive Scan for: Blackmagic RAW Common Components ===
+2026-08-04 01:13:59 - INFO - Name variations: ['BlackmagicDesign', 'Blackmagic_RAW_Common_Components', 'blackmagicrawcommoncomponents', 'Blackmagic', 'Blackmagic Design']...
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\Program Files (x86)\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\Program Files (x86)\blackmagic design
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\ProgramData\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\ProgramData\blackmagic design
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\blackmagic design
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\blackmagic design
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Public\Documents\blackmagic design
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Blackmagic Design
+2026-08-04 01:13:59 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Blackmagic Design\Blackmagic RAW
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Public\Documents\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Blackmagic Design
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\blackmagic design
+2026-08-04 01:13:59 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FCDBA071-A602-43E6-BFD4-4A6AC43D3556}
+2026-08-04 01:13:59 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Blackmagic Design
+2026-08-04 01:13:59 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:59 - INFO - Program Data: 3 locations
+2026-08-04 01:13:59 - INFO - User Data: 3 locations
+2026-08-04 01:13:59 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:59 - INFO - Registry Keys: 3 keys
+2026-08-04 01:13:59 - INFO - Shortcuts: 1 found
+2026-08-04 01:13:59 - INFO - === Comprehensive Scan for: Cloudflare One Client ===
+2026-08-04 01:13:59 - INFO - Name variations: ['Cloudflare', 'Cloudflare One', 'CloudflareOneClient', 'Cloudflare One Client', 'cloudflareoneclient']...
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\Program Files\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\Program Files\cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\ProgramData\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found program_data: C:\ProgramData\cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Cloudflare
+2026-08-04 01:13:59 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Cloudflare\Cloudflare WARP
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cloudflare
+2026-08-04 01:13:59 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{79046BCA-7908-4E33-9788-FFD89183A7BE}
+2026-08-04 01:13:59 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Cloudflare WARP
+2026-08-04 01:13:59 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:59 - INFO - Program Data: 3 locations
+2026-08-04 01:13:59 - INFO - User Data: 1 locations
+2026-08-04 01:13:59 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:59 - INFO - Registry Keys: 5 keys
+2026-08-04 01:13:59 - INFO - Shortcuts: 1 found
+2026-08-04 01:13:59 - INFO - === Comprehensive Scan for: AutoSubs ===
+2026-08-04 01:13:59 - INFO - Name variations: ['autosubs', 'com.autosubs.autosubs', 'AutoSubs', 'autosubs.AutoSubs']...
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\autosubs
+2026-08-04 01:13:59 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\AutoSubs
+2026-08-04 01:13:59 - INFO - ✓ Extracted installation directory from uninstall path: C:\Users\Hamza Ramzan\AppData\Local\AutoSubs
+2026-08-04 01:13:59 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\AutoSubs
+2026-08-04 01:13:59 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\autosubs
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\autosubs
+2026-08-04 01:13:59 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\AutoSubs
+2026-08-04 01:13:59 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AutoSubs
+2026-08-04 01:13:59 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\AutoSubs.lnk
+2026-08-04 01:13:59 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:13:59 - INFO - Program Data: 0 locations
+2026-08-04 01:13:59 - INFO - User Data: 1 locations
+2026-08-04 01:13:59 - INFO - Custom Locations: 0 locations
+2026-08-04 01:13:59 - INFO - Registry Keys: 3 keys
+2026-08-04 01:13:59 - INFO - Shortcuts: 1 found
+2026-08-04 01:14:00 - INFO - === Comprehensive Scan for: Adobe Premiere Pro 2026 ===
+2026-08-04 01:14:00 - INFO - Name variations: ['Adobe', 'com.adobe.pro', 'Adobe_Premiere_Pro_2026', 'Adobe.Premiere.Pro.2026', 'adobe']...
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\Documents\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Public\Documents\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found user_data: C:\Users\Public\Documents\adobe
+2026-08-04 01:14:00 - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:14:00 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-08-04 01:14:00 - INFO - Scanning install location: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:14:00 - INFO - ✓ Added full installation folder: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2025
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Premiere Pro 2026
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Program Files (x86)\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Program Files (x86)\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\ProgramData\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\ProgramData\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Analysis Server
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Premiere Pro
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Adobe Media Encoder
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\Documents\Adobe.\Premiere Pro
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Hamza Ramzan\Documents\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found Publisher Umbrella directory: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro
+2026-08-04 01:14:00 - INFO -   ✓ Publisher sub-folder: C:\Users\Public\Documents\Adobe.\Premiere Pro 2026
+2026-08-04 01:14:00 - INFO -   ✓ Publisher umbrella parent folder: C:\Users\Public\Documents\Adobe.
+2026-08-04 01:14:00 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-08-04 01:14:00 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-08-04 01:14:00 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-08-04 01:14:00 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PPRO_26_2
+2026-08-04 01:14:00 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-08-04 01:14:00 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk
+2026-08-04 01:14:00 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2025.lnk
+2026-08-04 01:14:00 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Premiere Pro 2026.lnk
+2026-08-04 01:14:00 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-08-04 01:14:00 - INFO - === SCAN COMPLETE ===
+2026-08-04 01:14:00 - INFO - Program Data: 16 locations
+2026-08-04 01:14:00 - INFO - User Data: 21 locations
+2026-08-04 01:14:00 - INFO - Custom Locations: 0 locations
+2026-08-04 01:14:00 - INFO - Registry Keys: 7 keys
+2026-08-04 01:14:00 - INFO - Shortcuts: 5 found

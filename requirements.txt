@@ -1,0 +1,25 @@
+# Windows Smart Application Backup Tool
+# Requirements File
+
+# This application uses only Python standard library modules
+# No external dependencies required
+
+# Python Version Required: 3.10 or higher
+
+# Standard Library Modules Used:
+# - tkinter (GUI framework)
+# - json (profile and manifest handling)
+# - logging (logging system)
+# - pathlib (path operations)
+# - shutil (file operations)
+# - subprocess (registry operations)
+# - ctypes (admin privilege checking)
+# - threading (async operations)
+# - datetime (timestamps)
+# - os (system operations)
+# - sys (system-specific parameters)
+
+# Note: Tkinter should be included with Python installation
+# If tkinter is missing, install it with:
+#   Windows: Reinstall Python with "tcl/tk and IDLE" option checked
+#   Linux: sudo apt-get install python3-tk

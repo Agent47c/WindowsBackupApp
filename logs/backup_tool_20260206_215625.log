@@ -1,0 +1,97 @@
+2026-02-06 21:56:25 - INFO - Logger initialized
+2026-02-06 21:56:25 - INFO - Loaded backup history
+2026-02-06 21:56:25 - INFO - Loaded backup history
+2026-02-06 21:56:25 - INFO - Scanning for installed applications...
+2026-02-06 21:56:25 - INFO - Found 47 installed applications
+2026-02-06 21:56:26 - INFO - === Comprehensive Scan for: Bloody WorkShop8 ===
+2026-02-06 21:56:26 - INFO - Name variations: ['Bloody WorkShop8', 'bloody workshop8', 'bloody-workshop8', 'Bloody-WorkShop8', 'Bloody']...
+2026-02-06 21:56:26 - INFO - ✓ Found program_data: C:\Program Files (x86)\bloodyworkshop8
+2026-02-06 21:56:26 - INFO - ✓ Found program_data: C:\Program Files (x86)\BloodyWorkShop8
+2026-02-06 21:56:26 - INFO - ✓ Found program_data: C:\ProgramData\bloodyworkshop8
+2026-02-06 21:56:26 - INFO - ✓ Found program_data: C:\ProgramData\BloodyWorkShop8
+2026-02-06 21:56:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bloody
+2026-02-06 21:56:26 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\bloody
+2026-02-06 21:56:26 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:56:26 - INFO - Program Data: 2 locations
+2026-02-06 21:56:26 - INFO - User Data: 0 locations
+2026-02-06 21:56:26 - INFO - Custom Locations: 0 locations
+2026-02-06 21:56:26 - INFO - Registry Keys: 2 keys
+2026-02-06 21:56:30 - INFO - === Comprehensive Scan for: Deno ===
+2026-02-06 21:56:30 - INFO - Name variations: ['DenoLand', 'denoland', 'Deno Land', 'deno', 'Deno']...
+2026-02-06 21:56:30 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:56:30 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-06 21:56:30 - INFO - Scanning all drives for application...
+2026-02-06 21:56:30 - INFO - Scanning drive: D:\
+2026-02-06 21:56:30 - INFO - Scanning drive: E:\
+2026-02-06 21:56:30 - INFO - Scanning drive: F:\
+2026-02-06 21:56:30 - INFO - Scanning drive: G:\
+2026-02-06 21:56:30 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:56:30 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:56:30 - INFO - Program Data: 0 locations
+2026-02-06 21:56:30 - INFO - User Data: 1 locations
+2026-02-06 21:56:30 - INFO - Custom Locations: 0 locations
+2026-02-06 21:56:30 - INFO - Registry Keys: 0 keys
+2026-02-06 21:56:30 - INFO - === Comprehensive Scan for: Deno ===
+2026-02-06 21:56:30 - INFO - Name variations: ['DenoLand', 'denoland', 'Deno Land', 'deno', 'Deno']...
+2026-02-06 21:56:30 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:56:30 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-06 21:56:30 - INFO - Scanning all drives for application...
+2026-02-06 21:56:30 - INFO - Scanning drive: D:\
+2026-02-06 21:56:30 - INFO - Scanning drive: E:\
+2026-02-06 21:56:30 - INFO - Scanning drive: F:\
+2026-02-06 21:56:30 - INFO - Scanning drive: G:\
+2026-02-06 21:56:30 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:56:30 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:56:30 - INFO - Program Data: 0 locations
+2026-02-06 21:56:30 - INFO - User Data: 1 locations
+2026-02-06 21:56:30 - INFO - Custom Locations: 0 locations
+2026-02-06 21:56:30 - INFO - Registry Keys: 0 keys
+2026-02-06 21:56:31 - INFO - === Comprehensive Scan for: Discord ===
+2026-02-06 21:56:31 - INFO - Name variations: ['discord', 'Discord']...
+2026-02-06 21:56:31 - INFO - ✓ Found program_data: C:\Program Files\Common Files\discord
+2026-02-06 21:56:31 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Discord
+2026-02-06 21:56:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\discord
+2026-02-06 21:56:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Discord
+2026-02-06 21:56:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\discord
+2026-02-06 21:56:31 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-06 21:56:31 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-06 21:56:31 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\discord
+2026-02-06 21:56:31 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Discord
+2026-02-06 21:56:31 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:56:31 - INFO - Program Data: 1 locations
+2026-02-06 21:56:31 - INFO - User Data: 2 locations
+2026-02-06 21:56:31 - INFO - Custom Locations: 0 locations
+2026-02-06 21:56:31 - INFO - Registry Keys: 2 keys
+2026-02-06 21:56:43 - INFO - === Comprehensive Scan for: Discord ===
+2026-02-06 21:56:43 - INFO - Name variations: ['discord', 'Discord']...
+2026-02-06 21:56:43 - INFO - ✓ Found program_data: C:\Program Files\Common Files\discord
+2026-02-06 21:56:43 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Discord
+2026-02-06 21:56:43 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\discord
+2026-02-06 21:56:43 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Discord
+2026-02-06 21:56:43 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\discord
+2026-02-06 21:56:43 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-06 21:56:43 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-06 21:56:43 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\discord
+2026-02-06 21:56:43 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Discord
+2026-02-06 21:56:43 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:56:43 - INFO - Program Data: 1 locations
+2026-02-06 21:56:43 - INFO - User Data: 2 locations
+2026-02-06 21:56:43 - INFO - Custom Locations: 0 locations
+2026-02-06 21:56:43 - INFO - Registry Keys: 2 keys
+2026-02-06 21:56:43 - INFO - Starting backup for: Discord
+2026-02-06 21:56:43 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\Discord
+2026-02-06 21:56:43 - INFO - Copying Program Data: discord
+2026-02-06 21:56:43 - INFO - Backed up: C:\Program Files\Common Files\discord -> E:/BackupSmart\SmartAppBackup\Discord\ProgramData\ProgramFiles\discord
+2026-02-06 21:56:43 - INFO - Copying User Data: discord
+2026-02-06 21:56:44 - INFO - Backed up: C:\Users\Hamza Ramzan\AppData\Roaming\discord -> E:/BackupSmart\SmartAppBackup\Discord\UserData\Roaming\discord
+2026-02-06 21:56:44 - INFO - Copying User Data: discord
+2026-02-06 21:56:51 - INFO - Backed up: C:\Users\Hamza Ramzan\AppData\Local\discord -> E:/BackupSmart\SmartAppBackup\Discord\UserData\Local\discord
+2026-02-06 21:56:51 - INFO - Exporting registry keys...
+2026-02-06 21:56:51 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\discord
+2026-02-06 21:56:51 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\Discord
+2026-02-06 21:56:51 - INFO - Exported 2 registry keys
+2026-02-06 21:56:51 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\Discord\manifest.json
+2026-02-06 21:56:51 - INFO - Added new backup for Discord
+2026-02-06 21:56:51 - INFO - Saved backup history
+2026-02-06 21:56:51 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:56:51 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\Discord

@@ -1,0 +1,906 @@
+2026-02-06 21:43:39 - INFO - Logger initialized
+2026-02-06 21:43:39 - INFO - Loaded backup history
+2026-02-06 21:43:39 - INFO - Loaded backup history
+2026-02-06 21:43:40 - INFO - Scanning for installed applications...
+2026-02-06 21:43:40 - INFO - Found 47 installed applications
+2026-02-06 21:43:43 - INFO - === Scanning for: MSI Afterburner 4.6.6 ===
+2026-02-06 21:43:43 - INFO - Publisher: MSI Co., LTD
+2026-02-06 21:43:43 - INFO - Install Location: None
+2026-02-06 21:43:43 - INFO - Name variations: ['MSIAfterburner', 'msi afterburner 4.6.6', 'MSIAfterburner4.6.6', 'msi afterburner', 'MSI', 'MSI Afterburner 4.6.6', 'MSI Afterburner']
+2026-02-06 21:43:43 - INFO - --- Checking Program Files ---
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\MSIAfterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\msi afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\MSIAfterburner4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\msi afterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\MSI
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\MSI Afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files\MSI Afterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\MSIAfterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\msi afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\MSIAfterburner4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\msi afterburner
+2026-02-06 21:43:43 - INFO -   ✓ FOUND!
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\MSI
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\MSI Afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Program Files (x86)\MSI Afterburner
+2026-02-06 21:43:43 - INFO -   ✓ FOUND!
+2026-02-06 21:43:43 - INFO - --- Checking ProgramData ---
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\MSIAfterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\msi afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\MSIAfterburner4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\msi afterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\MSI
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\MSI Afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\ProgramData\MSI Afterburner
+2026-02-06 21:43:43 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSIAfterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\msi afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSIAfterburner4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\msi afterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSI
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSI Afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSI Afterburner
+2026-02-06 21:43:43 - INFO - --- Checking AppData Local ---
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSIAfterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\msi afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSIAfterburner4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\msi afterburner
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSI
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSI Afterburner 4.6.6
+2026-02-06 21:43:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSI Afterburner
+2026-02-06 21:43:43 - INFO - --- Searching Registry ---
+2026-02-06 21:43:43 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 21:43:43 - INFO - === FINAL RESULTS ===
+2026-02-06 21:43:43 - INFO - Program Data: ['C:\\Program Files (x86)\\msi afterburner', 'C:\\Program Files (x86)\\MSI Afterburner']
+2026-02-06 21:43:43 - INFO - User Data: []
+2026-02-06 21:43:43 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\MSI']
+2026-02-06 21:43:49 - INFO - === Scanning for: MSI Afterburner 4.6.6 ===
+2026-02-06 21:43:49 - INFO - Publisher: MSI Co., LTD
+2026-02-06 21:43:49 - INFO - Install Location: None
+2026-02-06 21:43:49 - INFO - Name variations: ['MSIAfterburner', 'msi afterburner 4.6.6', 'MSIAfterburner4.6.6', 'msi afterburner', 'MSI', 'MSI Afterburner 4.6.6', 'MSI Afterburner']
+2026-02-06 21:43:49 - INFO - --- Checking Program Files ---
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\MSIAfterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\msi afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\MSIAfterburner4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\msi afterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\MSI
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files\MSI Afterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\MSIAfterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\msi afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\MSIAfterburner4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\msi afterburner
+2026-02-06 21:43:49 - INFO -   ✓ FOUND!
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\MSI
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Program Files (x86)\MSI Afterburner
+2026-02-06 21:43:49 - INFO -   ✓ FOUND!
+2026-02-06 21:43:49 - INFO - --- Checking ProgramData ---
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\MSIAfterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\msi afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\MSIAfterburner4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\msi afterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\MSI
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\ProgramData\MSI Afterburner
+2026-02-06 21:43:49 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSIAfterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\msi afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSIAfterburner4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\msi afterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSI
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\MSI Afterburner
+2026-02-06 21:43:49 - INFO - --- Checking AppData Local ---
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSIAfterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\msi afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSIAfterburner4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\msi afterburner
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSI
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\MSI Afterburner
+2026-02-06 21:43:49 - INFO - --- Searching Registry ---
+2026-02-06 21:43:49 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 21:43:49 - INFO - === FINAL RESULTS ===
+2026-02-06 21:43:49 - INFO - Program Data: ['C:\\Program Files (x86)\\msi afterburner', 'C:\\Program Files (x86)\\MSI Afterburner']
+2026-02-06 21:43:49 - INFO - User Data: []
+2026-02-06 21:43:49 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\MSI']
+2026-02-06 21:43:49 - INFO - Starting backup for: MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
+2026-02-06 21:43:49 - INFO - Copying Program Data: msi afterburner
+2026-02-06 21:44:02 - INFO - Backed up: C:\Program Files (x86)\msi afterburner -> E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6\ProgramData\ProgramFiles_x86\msi afterburner
+2026-02-06 21:44:02 - INFO - Copying Program Data: MSI Afterburner
+2026-02-06 21:44:04 - INFO - Backed up: C:\Program Files (x86)\MSI Afterburner -> E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6\ProgramData\ProgramFiles_x86\MSI Afterburner
+2026-02-06 21:44:04 - INFO - Exporting registry keys...
+2026-02-06 21:44:04 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 21:44:04 - INFO - Exported 1 registry keys
+2026-02-06 21:44:04 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6\manifest.json
+2026-02-06 21:44:04 - INFO - Merged backup for MSI Afterburner 4.6.6 (backup #4)
+2026-02-06 21:44:04 - INFO - Saved backup history
+2026-02-06 21:44:04 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:44:04 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
+2026-02-06 21:44:43 - INFO - === Scanning for: GameLoop ===
+2026-02-06 21:44:43 - INFO - Publisher: Tencent Technology Company
+2026-02-06 21:44:43 - INFO - Install Location: None
+2026-02-06 21:44:43 - INFO - Name variations: ['GameLoop', 'gameloop']
+2026-02-06 21:44:43 - INFO - --- Checking Program Files ---
+2026-02-06 21:44:43 - INFO - Checking: C:\Program Files\GameLoop
+2026-02-06 21:44:43 - INFO - Checking: C:\Program Files\gameloop
+2026-02-06 21:44:43 - INFO - Checking: C:\Program Files (x86)\GameLoop
+2026-02-06 21:44:43 - INFO - Checking: C:\Program Files (x86)\gameloop
+2026-02-06 21:44:43 - INFO - --- Checking ProgramData ---
+2026-02-06 21:44:43 - INFO - Checking: C:\ProgramData\GameLoop
+2026-02-06 21:44:43 - INFO - Checking: C:\ProgramData\gameloop
+2026-02-06 21:44:43 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:44:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\GameLoop
+2026-02-06 21:44:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\gameloop
+2026-02-06 21:44:43 - INFO - --- Checking AppData Local ---
+2026-02-06 21:44:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\GameLoop
+2026-02-06 21:44:43 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\gameloop
+2026-02-06 21:44:43 - INFO - --- Searching Registry ---
+2026-02-06 21:44:43 - INFO - === FINAL RESULTS ===
+2026-02-06 21:44:43 - INFO - Program Data: []
+2026-02-06 21:44:43 - INFO - User Data: []
+2026-02-06 21:44:43 - INFO - Registry Keys: []
+2026-02-06 21:44:50 - INFO - === Scanning for: CPUID CPU-Z 2.18 ===
+2026-02-06 21:44:50 - INFO - Publisher: CPUID, Inc.
+2026-02-06 21:44:50 - INFO - Install Location: C:\Program Files\CPUID\CPU-Z\
+2026-02-06 21:44:50 - INFO - Name variations: ['CPUID', 'cpuid cpu-z', 'CPUIDCPU-Z2.18', 'CPUID CPU-Z 2.18', 'cpuid cpu-z 2.18', 'CPUIDCPU-Z', 'CPUID CPU-Z']
+2026-02-06 21:44:50 - INFO - --- Checking Program Files ---
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID
+2026-02-06 21:44:50 - INFO -   ✓ FOUND!
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\cpuid cpu-z
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUIDCPU-Z2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID CPU-Z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\cpuid cpu-z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUIDCPU-Z
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID CPU-Z
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\CPUID
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\cpuid cpu-z
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\CPUIDCPU-Z2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\CPUID CPU-Z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\cpuid cpu-z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\CPUIDCPU-Z
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files (x86)\CPUID CPU-Z
+2026-02-06 21:44:50 - INFO - --- Checking ProgramData ---
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\CPUID
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\cpuid cpu-z
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\CPUIDCPU-Z2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\CPUID CPU-Z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\cpuid cpu-z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\CPUIDCPU-Z
+2026-02-06 21:44:50 - INFO - Checking: C:\ProgramData\CPUID CPU-Z
+2026-02-06 21:44:50 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CPUID
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\cpuid cpu-z
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CPUIDCPU-Z2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CPUID CPU-Z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\cpuid cpu-z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CPUIDCPU-Z
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CPUID CPU-Z
+2026-02-06 21:44:50 - INFO - --- Checking AppData Local ---
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CPUID
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\cpuid cpu-z
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CPUIDCPU-Z2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CPUID CPU-Z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\cpuid cpu-z 2.18
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CPUIDCPU-Z
+2026-02-06 21:44:50 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CPUID CPU-Z
+2026-02-06 21:44:50 - INFO - --- Checking Install Location: C:\Program Files\CPUID\CPU-Z\ ---
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID\CPU-Z\config
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID\CPU-Z\data
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID\CPU-Z\settings
+2026-02-06 21:44:50 - INFO - Checking: C:\Program Files\CPUID\CPU-Z\profiles
+2026-02-06 21:44:50 - INFO - --- Searching Registry ---
+2026-02-06 21:44:50 - INFO -   ✓ Found registry: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-06 21:44:50 - INFO - === FINAL RESULTS ===
+2026-02-06 21:44:50 - INFO - Program Data: ['C:\\Program Files\\CPUID']
+2026-02-06 21:44:50 - INFO - User Data: []
+2026-02-06 21:44:50 - INFO - Registry Keys: ['HKEY_LOCAL_MACHINE\\SOFTWARE\\CPUID']
+2026-02-06 21:44:53 - INFO - === Scanning for: GameLoop ===
+2026-02-06 21:44:53 - INFO - Publisher: Tencent Technology Company
+2026-02-06 21:44:53 - INFO - Install Location: None
+2026-02-06 21:44:53 - INFO - Name variations: ['GameLoop', 'gameloop']
+2026-02-06 21:44:53 - INFO - --- Checking Program Files ---
+2026-02-06 21:44:53 - INFO - Checking: C:\Program Files\GameLoop
+2026-02-06 21:44:53 - INFO - Checking: C:\Program Files\gameloop
+2026-02-06 21:44:53 - INFO - Checking: C:\Program Files (x86)\GameLoop
+2026-02-06 21:44:53 - INFO - Checking: C:\Program Files (x86)\gameloop
+2026-02-06 21:44:53 - INFO - --- Checking ProgramData ---
+2026-02-06 21:44:53 - INFO - Checking: C:\ProgramData\GameLoop
+2026-02-06 21:44:53 - INFO - Checking: C:\ProgramData\gameloop
+2026-02-06 21:44:53 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:44:53 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\GameLoop
+2026-02-06 21:44:53 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\gameloop
+2026-02-06 21:44:53 - INFO - --- Checking AppData Local ---
+2026-02-06 21:44:53 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\GameLoop
+2026-02-06 21:44:53 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\gameloop
+2026-02-06 21:44:53 - INFO - --- Searching Registry ---
+2026-02-06 21:44:53 - INFO - === FINAL RESULTS ===
+2026-02-06 21:44:53 - INFO - Program Data: []
+2026-02-06 21:44:53 - INFO - User Data: []
+2026-02-06 21:44:53 - INFO - Registry Keys: []
+2026-02-06 21:44:56 - INFO - === Scanning for: GameLoop ===
+2026-02-06 21:44:56 - INFO - Publisher: Tencent Technology Company
+2026-02-06 21:44:56 - INFO - Install Location: None
+2026-02-06 21:44:56 - INFO - Name variations: ['GameLoop', 'gameloop']
+2026-02-06 21:44:56 - INFO - --- Checking Program Files ---
+2026-02-06 21:44:56 - INFO - Checking: C:\Program Files\GameLoop
+2026-02-06 21:44:56 - INFO - Checking: C:\Program Files\gameloop
+2026-02-06 21:44:56 - INFO - Checking: C:\Program Files (x86)\GameLoop
+2026-02-06 21:44:56 - INFO - Checking: C:\Program Files (x86)\gameloop
+2026-02-06 21:44:56 - INFO - --- Checking ProgramData ---
+2026-02-06 21:44:56 - INFO - Checking: C:\ProgramData\GameLoop
+2026-02-06 21:44:56 - INFO - Checking: C:\ProgramData\gameloop
+2026-02-06 21:44:56 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:44:56 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\GameLoop
+2026-02-06 21:44:56 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\gameloop
+2026-02-06 21:44:56 - INFO - --- Checking AppData Local ---
+2026-02-06 21:44:56 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\GameLoop
+2026-02-06 21:44:56 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\gameloop
+2026-02-06 21:44:56 - INFO - --- Searching Registry ---
+2026-02-06 21:44:56 - INFO - === FINAL RESULTS ===
+2026-02-06 21:44:56 - INFO - Program Data: []
+2026-02-06 21:44:56 - INFO - User Data: []
+2026-02-06 21:44:56 - INFO - Registry Keys: []
+2026-02-06 21:45:03 - INFO - === Scanning for: Branding64 ===
+2026-02-06 21:45:03 - INFO - Publisher: Advanced Micro Devices, Inc.
+2026-02-06 21:45:03 - INFO - Install Location: None
+2026-02-06 21:45:03 - INFO - Name variations: ['Branding64', 'branding64']
+2026-02-06 21:45:03 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:03 - INFO - Checking: C:\Program Files\Branding64
+2026-02-06 21:45:03 - INFO - Checking: C:\Program Files\branding64
+2026-02-06 21:45:03 - INFO - Checking: C:\Program Files (x86)\Branding64
+2026-02-06 21:45:03 - INFO - Checking: C:\Program Files (x86)\branding64
+2026-02-06 21:45:03 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:03 - INFO - Checking: C:\ProgramData\Branding64
+2026-02-06 21:45:03 - INFO - Checking: C:\ProgramData\branding64
+2026-02-06 21:45:03 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:03 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Branding64
+2026-02-06 21:45:03 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\branding64
+2026-02-06 21:45:03 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:03 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Branding64
+2026-02-06 21:45:03 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\branding64
+2026-02-06 21:45:03 - INFO - --- Searching Registry ---
+2026-02-06 21:45:03 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:03 - INFO - Program Data: []
+2026-02-06 21:45:03 - INFO - User Data: []
+2026-02-06 21:45:03 - INFO - Registry Keys: []
+2026-02-06 21:45:05 - INFO - === Scanning for: Cloudflare WARP ===
+2026-02-06 21:45:05 - INFO - Publisher: Cloudflare, Inc.
+2026-02-06 21:45:05 - INFO - Install Location: None
+2026-02-06 21:45:05 - INFO - Name variations: ['CloudflareWARP', 'Cloudflare WARP', 'cloudflare warp', 'Cloudflare']
+2026-02-06 21:45:05 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files\CloudflareWARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files\Cloudflare WARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files\cloudflare warp
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files\Cloudflare
+2026-02-06 21:45:05 - INFO -   ✓ FOUND!
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files (x86)\CloudflareWARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files (x86)\Cloudflare WARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files (x86)\cloudflare warp
+2026-02-06 21:45:05 - INFO - Checking: C:\Program Files (x86)\Cloudflare
+2026-02-06 21:45:05 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:05 - INFO - Checking: C:\ProgramData\CloudflareWARP
+2026-02-06 21:45:05 - INFO - Checking: C:\ProgramData\Cloudflare WARP
+2026-02-06 21:45:05 - INFO - Checking: C:\ProgramData\cloudflare warp
+2026-02-06 21:45:05 - INFO - Checking: C:\ProgramData\Cloudflare
+2026-02-06 21:45:05 - INFO -   ✓ FOUND!
+2026-02-06 21:45:05 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CloudflareWARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Cloudflare WARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\cloudflare warp
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Cloudflare
+2026-02-06 21:45:05 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CloudflareWARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare WARP
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\cloudflare warp
+2026-02-06 21:45:05 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-02-06 21:45:05 - INFO -   ✓ FOUND!
+2026-02-06 21:45:05 - INFO - --- Searching Registry ---
+2026-02-06 21:45:05 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\Cloudflare
+2026-02-06 21:45:05 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:05 - INFO - Program Data: ['C:\\Program Files\\Cloudflare', 'C:\\ProgramData\\Cloudflare']
+2026-02-06 21:45:05 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Local\\Cloudflare']
+2026-02-06 21:45:05 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\Cloudflare']
+2026-02-06 21:45:07 - INFO - === Scanning for: Branding64 ===
+2026-02-06 21:45:07 - INFO - Publisher: Advanced Micro Devices, Inc.
+2026-02-06 21:45:07 - INFO - Install Location: None
+2026-02-06 21:45:07 - INFO - Name variations: ['Branding64', 'branding64']
+2026-02-06 21:45:07 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:07 - INFO - Checking: C:\Program Files\Branding64
+2026-02-06 21:45:07 - INFO - Checking: C:\Program Files\branding64
+2026-02-06 21:45:07 - INFO - Checking: C:\Program Files (x86)\Branding64
+2026-02-06 21:45:07 - INFO - Checking: C:\Program Files (x86)\branding64
+2026-02-06 21:45:07 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:07 - INFO - Checking: C:\ProgramData\Branding64
+2026-02-06 21:45:07 - INFO - Checking: C:\ProgramData\branding64
+2026-02-06 21:45:07 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:07 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Branding64
+2026-02-06 21:45:07 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\branding64
+2026-02-06 21:45:07 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:07 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Branding64
+2026-02-06 21:45:07 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\branding64
+2026-02-06 21:45:07 - INFO - --- Searching Registry ---
+2026-02-06 21:45:07 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:07 - INFO - Program Data: []
+2026-02-06 21:45:07 - INFO - User Data: []
+2026-02-06 21:45:07 - INFO - Registry Keys: []
+2026-02-06 21:45:08 - INFO - === Scanning for: Cloudflare WARP ===
+2026-02-06 21:45:08 - INFO - Publisher: Cloudflare, Inc.
+2026-02-06 21:45:08 - INFO - Install Location: None
+2026-02-06 21:45:08 - INFO - Name variations: ['CloudflareWARP', 'Cloudflare WARP', 'cloudflare warp', 'Cloudflare']
+2026-02-06 21:45:08 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files\CloudflareWARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files\Cloudflare WARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files\cloudflare warp
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files\Cloudflare
+2026-02-06 21:45:08 - INFO -   ✓ FOUND!
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files (x86)\CloudflareWARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files (x86)\Cloudflare WARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files (x86)\cloudflare warp
+2026-02-06 21:45:08 - INFO - Checking: C:\Program Files (x86)\Cloudflare
+2026-02-06 21:45:08 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:08 - INFO - Checking: C:\ProgramData\CloudflareWARP
+2026-02-06 21:45:08 - INFO - Checking: C:\ProgramData\Cloudflare WARP
+2026-02-06 21:45:08 - INFO - Checking: C:\ProgramData\cloudflare warp
+2026-02-06 21:45:08 - INFO - Checking: C:\ProgramData\Cloudflare
+2026-02-06 21:45:08 - INFO -   ✓ FOUND!
+2026-02-06 21:45:08 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CloudflareWARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Cloudflare WARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\cloudflare warp
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Cloudflare
+2026-02-06 21:45:08 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CloudflareWARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare WARP
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\cloudflare warp
+2026-02-06 21:45:08 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-02-06 21:45:08 - INFO -   ✓ FOUND!
+2026-02-06 21:45:08 - INFO - --- Searching Registry ---
+2026-02-06 21:45:08 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\Cloudflare
+2026-02-06 21:45:08 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:08 - INFO - Program Data: ['C:\\Program Files\\Cloudflare', 'C:\\ProgramData\\Cloudflare']
+2026-02-06 21:45:08 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Local\\Cloudflare']
+2026-02-06 21:45:08 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\Cloudflare']
+2026-02-06 21:45:15 - INFO - === Scanning for: GameLoop ===
+2026-02-06 21:45:15 - INFO - Publisher: Tencent Technology Company
+2026-02-06 21:45:15 - INFO - Install Location: None
+2026-02-06 21:45:15 - INFO - Name variations: ['GameLoop', 'gameloop']
+2026-02-06 21:45:15 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:15 - INFO - Checking: C:\Program Files\GameLoop
+2026-02-06 21:45:15 - INFO - Checking: C:\Program Files\gameloop
+2026-02-06 21:45:15 - INFO - Checking: C:\Program Files (x86)\GameLoop
+2026-02-06 21:45:15 - INFO - Checking: C:\Program Files (x86)\gameloop
+2026-02-06 21:45:15 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:15 - INFO - Checking: C:\ProgramData\GameLoop
+2026-02-06 21:45:15 - INFO - Checking: C:\ProgramData\gameloop
+2026-02-06 21:45:15 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:15 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\GameLoop
+2026-02-06 21:45:15 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\gameloop
+2026-02-06 21:45:15 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:15 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\GameLoop
+2026-02-06 21:45:15 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\gameloop
+2026-02-06 21:45:15 - INFO - --- Searching Registry ---
+2026-02-06 21:45:15 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:15 - INFO - Program Data: []
+2026-02-06 21:45:15 - INFO - User Data: []
+2026-02-06 21:45:15 - INFO - Registry Keys: []
+2026-02-06 21:45:17 - INFO - === Scanning for: Discord ===
+2026-02-06 21:45:17 - INFO - Publisher: Discord Inc.
+2026-02-06 21:45:17 - INFO - Install Location: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-06 21:45:17 - INFO - Name variations: ['discord', 'Discord']
+2026-02-06 21:45:17 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:17 - INFO - Checking: C:\Program Files\discord
+2026-02-06 21:45:17 - INFO - Checking: C:\Program Files\Discord
+2026-02-06 21:45:17 - INFO - Checking: C:\Program Files (x86)\discord
+2026-02-06 21:45:17 - INFO - Checking: C:\Program Files (x86)\Discord
+2026-02-06 21:45:17 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:17 - INFO - Checking: C:\ProgramData\discord
+2026-02-06 21:45:17 - INFO - Checking: C:\ProgramData\Discord
+2026-02-06 21:45:17 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\discord
+2026-02-06 21:45:17 - INFO -   ✓ FOUND!
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Discord
+2026-02-06 21:45:17 - INFO -   ✓ FOUND!
+2026-02-06 21:45:17 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\discord
+2026-02-06 21:45:17 - INFO -   ✓ FOUND!
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-06 21:45:17 - INFO -   ✓ FOUND!
+2026-02-06 21:45:17 - INFO - --- Checking Install Location: C:\Users\Hamza Ramzan\AppData\Local\Discord ---
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Discord\config
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Discord\data
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Discord\settings
+2026-02-06 21:45:17 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Discord\profiles
+2026-02-06 21:45:17 - INFO - --- Searching Registry ---
+2026-02-06 21:45:17 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\discord
+2026-02-06 21:45:17 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\Discord
+2026-02-06 21:45:17 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:17 - INFO - Program Data: []
+2026-02-06 21:45:17 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\discord', 'C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\Discord', 'C:\\Users\\Hamza Ramzan\\AppData\\Local\\discord', 'C:\\Users\\Hamza Ramzan\\AppData\\Local\\Discord']
+2026-02-06 21:45:17 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\discord', 'HKEY_CURRENT_USER\\Software\\Discord']
+2026-02-06 21:45:20 - INFO - === Scanning for: CrystalDiskInfo 9.7.2 ===
+2026-02-06 21:45:20 - INFO - Publisher: Crystal Dew World
+2026-02-06 21:45:20 - INFO - Install Location: C:\Program Files\CrystalDiskInfo\
+2026-02-06 21:45:20 - INFO - Name variations: ['CrystalDiskInfo9.7.2', 'CrystalDiskInfo 9.7.2', 'CrystalDiskInfo', 'crystaldiskinfo', 'crystaldiskinfo 9.7.2']
+2026-02-06 21:45:20 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo 9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo
+2026-02-06 21:45:20 - INFO -   ✓ FOUND!
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\crystaldiskinfo
+2026-02-06 21:45:20 - INFO -   ✓ FOUND!
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\crystaldiskinfo 9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files (x86)\CrystalDiskInfo9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files (x86)\CrystalDiskInfo 9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files (x86)\CrystalDiskInfo
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files (x86)\crystaldiskinfo
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files (x86)\crystaldiskinfo 9.7.2
+2026-02-06 21:45:20 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:20 - INFO - Checking: C:\ProgramData\CrystalDiskInfo9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\ProgramData\CrystalDiskInfo 9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\ProgramData\CrystalDiskInfo
+2026-02-06 21:45:20 - INFO - Checking: C:\ProgramData\crystaldiskinfo
+2026-02-06 21:45:20 - INFO - Checking: C:\ProgramData\crystaldiskinfo 9.7.2
+2026-02-06 21:45:20 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CrystalDiskInfo9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CrystalDiskInfo 9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\CrystalDiskInfo
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\crystaldiskinfo
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\crystaldiskinfo 9.7.2
+2026-02-06 21:45:20 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CrystalDiskInfo9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CrystalDiskInfo 9.7.2
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\CrystalDiskInfo
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\crystaldiskinfo
+2026-02-06 21:45:20 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\crystaldiskinfo 9.7.2
+2026-02-06 21:45:20 - INFO - --- Checking Install Location: C:\Program Files\CrystalDiskInfo\ ---
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo\config
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo\data
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo\settings
+2026-02-06 21:45:20 - INFO - Checking: C:\Program Files\CrystalDiskInfo\profiles
+2026-02-06 21:45:20 - INFO - --- Searching Registry ---
+2026-02-06 21:45:20 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:20 - INFO - Program Data: ['C:\\Program Files\\CrystalDiskInfo', 'C:\\Program Files\\crystaldiskinfo']
+2026-02-06 21:45:20 - INFO - User Data: []
+2026-02-06 21:45:20 - INFO - Registry Keys: []
+2026-02-06 21:45:23 - INFO - === Scanning for: Adobe After Effects 2025 ===
+2026-02-06 21:45:23 - INFO - Publisher: Adobe Inc.
+2026-02-06 21:45:23 - INFO - Install Location: C:\Program Files\Adobe
+2026-02-06 21:45:23 - INFO - Name variations: ['Adobe After Effects 2025', 'adobe after effects 2025', 'AdobeAfterEffects2025', 'adobe after effects', 'AdobeAfterEffects', 'Adobe', 'Adobe After Effects']
+2026-02-06 21:45:23 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe After Effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\adobe after effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\AdobeAfterEffects2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\adobe after effects
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\AdobeAfterEffects
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe
+2026-02-06 21:45:23 - INFO -   ✓ FOUND!
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe After Effects
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\Adobe After Effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\adobe after effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\AdobeAfterEffects2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\adobe after effects
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\AdobeAfterEffects
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\Adobe
+2026-02-06 21:45:23 - INFO -   ✓ FOUND!
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files (x86)\Adobe After Effects
+2026-02-06 21:45:23 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\Adobe After Effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\adobe after effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\AdobeAfterEffects2025
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\adobe after effects
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\AdobeAfterEffects
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\Adobe
+2026-02-06 21:45:23 - INFO -   ✓ FOUND!
+2026-02-06 21:45:23 - INFO - Checking: C:\ProgramData\Adobe After Effects
+2026-02-06 21:45:23 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe After Effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\adobe after effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AdobeAfterEffects2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\adobe after effects
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AdobeAfterEffects
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-02-06 21:45:23 - INFO -   ✓ FOUND!
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe After Effects
+2026-02-06 21:45:23 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Adobe After Effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\adobe after effects 2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AdobeAfterEffects2025
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\adobe after effects
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AdobeAfterEffects
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-02-06 21:45:23 - INFO -   ✓ FOUND!
+2026-02-06 21:45:23 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Adobe After Effects
+2026-02-06 21:45:23 - INFO - --- Checking Install Location: C:\Program Files\Adobe ---
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe\config
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe\data
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe\settings
+2026-02-06 21:45:23 - INFO - Checking: C:\Program Files\Adobe\profiles
+2026-02-06 21:45:23 - INFO - --- Searching Registry ---
+2026-02-06 21:45:23 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\Adobe
+2026-02-06 21:45:23 - INFO -   ✓ Found registry: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-02-06 21:45:23 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:23 - INFO - Program Data: ['C:\\Program Files\\Adobe', 'C:\\Program Files (x86)\\Adobe', 'C:\\ProgramData\\Adobe']
+2026-02-06 21:45:23 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\Adobe', 'C:\\Users\\Hamza Ramzan\\AppData\\Local\\Adobe']
+2026-02-06 21:45:23 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\Adobe', 'HKEY_LOCAL_MACHINE\\SOFTWARE\\Adobe']
+2026-02-06 21:45:25 - INFO - === Scanning for: AEJuice Pack Manager version 25.12.1015 ===
+2026-02-06 21:45:25 - INFO - Publisher: AEJuice LLC
+2026-02-06 21:45:25 - INFO - Install Location: C:\Program Files\AEJuice Pack Manager\
+2026-02-06 21:45:25 - INFO - Name variations: ['aejuice pack manager version 25.12.1015', 'AEJuicePackManagerversion', 'AEJuice Pack Manager version 25.12.1015', 'aejuice pack manager version', 'AEJuicePackManagerversion25.12.1015', 'AEJuice Pack Manager version', 'AEJuice']
+2026-02-06 21:45:25 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuicePackManagerversion
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\aejuice pack manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice Pack Manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AEJuicePackManagerversion
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\aejuice pack manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AEJuice Pack Manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AEJuice
+2026-02-06 21:45:25 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AEJuicePackManagerversion
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\aejuice pack manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AEJuice Pack Manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AEJuice
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuicePackManagerversion
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\aejuice pack manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice Pack Manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuicePackManagerversion
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\aejuice pack manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuice Pack Manager version
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuice
+2026-02-06 21:45:25 - INFO - --- Checking Install Location: C:\Program Files\AEJuice Pack Manager\ ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\config
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\data
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\settings
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\profiles
+2026-02-06 21:45:25 - INFO - --- Searching Registry ---
+2026-02-06 21:45:25 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\AEJuice
+2026-02-06 21:45:25 - INFO -   ✓ Found registry: HKEY_LOCAL_MACHINE\SOFTWARE\AEJuice
+2026-02-06 21:45:25 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:25 - INFO - Program Data: ['C:\\ProgramData\\AEJuice']
+2026-02-06 21:45:25 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\AEJuice']
+2026-02-06 21:45:25 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\AEJuice', 'HKEY_LOCAL_MACHINE\\SOFTWARE\\AEJuice']
+2026-02-06 21:45:25 - INFO - === Scanning for: Adobe After Effects 2025 ===
+2026-02-06 21:45:25 - INFO - Publisher: Adobe Inc.
+2026-02-06 21:45:25 - INFO - Install Location: C:\Program Files\Adobe
+2026-02-06 21:45:25 - INFO - Name variations: ['Adobe After Effects 2025', 'adobe after effects 2025', 'AdobeAfterEffects2025', 'adobe after effects', 'AdobeAfterEffects', 'Adobe', 'Adobe After Effects']
+2026-02-06 21:45:25 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe After Effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\adobe after effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AdobeAfterEffects2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\adobe after effects
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\AdobeAfterEffects
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe After Effects
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\Adobe After Effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\adobe after effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AdobeAfterEffects2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\adobe after effects
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\AdobeAfterEffects
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\Adobe
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files (x86)\Adobe After Effects
+2026-02-06 21:45:25 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\Adobe After Effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\adobe after effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AdobeAfterEffects2025
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\adobe after effects
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\AdobeAfterEffects
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\Adobe
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - Checking: C:\ProgramData\Adobe After Effects
+2026-02-06 21:45:25 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe After Effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\adobe after effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AdobeAfterEffects2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\adobe after effects
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AdobeAfterEffects
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe After Effects
+2026-02-06 21:45:25 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Adobe After Effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\adobe after effects 2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AdobeAfterEffects2025
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\adobe after effects
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AdobeAfterEffects
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-02-06 21:45:25 - INFO -   ✓ FOUND!
+2026-02-06 21:45:25 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Adobe After Effects
+2026-02-06 21:45:25 - INFO - --- Checking Install Location: C:\Program Files\Adobe ---
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe\config
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe\data
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe\settings
+2026-02-06 21:45:25 - INFO - Checking: C:\Program Files\Adobe\profiles
+2026-02-06 21:45:25 - INFO - --- Searching Registry ---
+2026-02-06 21:45:25 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\Adobe
+2026-02-06 21:45:25 - INFO -   ✓ Found registry: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-02-06 21:45:25 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:25 - INFO - Program Data: ['C:\\Program Files\\Adobe', 'C:\\Program Files (x86)\\Adobe', 'C:\\ProgramData\\Adobe']
+2026-02-06 21:45:25 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\Adobe', 'C:\\Users\\Hamza Ramzan\\AppData\\Local\\Adobe']
+2026-02-06 21:45:25 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\Adobe', 'HKEY_LOCAL_MACHINE\\SOFTWARE\\Adobe']
+2026-02-06 21:45:27 - INFO - === Scanning for: AEJuice Pack Manager version 25.12.1015 ===
+2026-02-06 21:45:27 - INFO - Publisher: AEJuice LLC
+2026-02-06 21:45:27 - INFO - Install Location: C:\Program Files\AEJuice Pack Manager\
+2026-02-06 21:45:27 - INFO - Name variations: ['aejuice pack manager version 25.12.1015', 'AEJuicePackManagerversion', 'AEJuice Pack Manager version 25.12.1015', 'aejuice pack manager version', 'AEJuicePackManagerversion25.12.1015', 'AEJuice Pack Manager version', 'AEJuice']
+2026-02-06 21:45:27 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuicePackManagerversion
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\aejuice pack manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice Pack Manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\AEJuicePackManagerversion
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\aejuice pack manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\AEJuice Pack Manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files (x86)\AEJuice
+2026-02-06 21:45:27 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\AEJuicePackManagerversion
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\aejuice pack manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\AEJuice Pack Manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\ProgramData\AEJuice
+2026-02-06 21:45:27 - INFO -   ✓ FOUND!
+2026-02-06 21:45:27 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuicePackManagerversion
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\aejuice pack manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice Pack Manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice
+2026-02-06 21:45:27 - INFO -   ✓ FOUND!
+2026-02-06 21:45:27 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\aejuice pack manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuicePackManagerversion
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuice Pack Manager version 25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\aejuice pack manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuicePackManagerversion25.12.1015
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuice Pack Manager version
+2026-02-06 21:45:27 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\AEJuice
+2026-02-06 21:45:27 - INFO - --- Checking Install Location: C:\Program Files\AEJuice Pack Manager\ ---
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\config
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\data
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\settings
+2026-02-06 21:45:27 - INFO - Checking: C:\Program Files\AEJuice Pack Manager\profiles
+2026-02-06 21:45:27 - INFO - --- Searching Registry ---
+2026-02-06 21:45:27 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\AEJuice
+2026-02-06 21:45:27 - INFO -   ✓ Found registry: HKEY_LOCAL_MACHINE\SOFTWARE\AEJuice
+2026-02-06 21:45:27 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:27 - INFO - Program Data: ['C:\\ProgramData\\AEJuice']
+2026-02-06 21:45:27 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\AEJuice']
+2026-02-06 21:45:27 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\AEJuice', 'HKEY_LOCAL_MACHINE\\SOFTWARE\\AEJuice']
+2026-02-06 21:45:28 - INFO - === Scanning for: Bloody WorkShop8 ===
+2026-02-06 21:45:28 - INFO - Publisher: Bloody
+2026-02-06 21:45:28 - INFO - Install Location: None
+2026-02-06 21:45:28 - INFO - Name variations: ['Bloody WorkShop8', 'Bloody', 'bloody workshop8', 'BloodyWorkShop8']
+2026-02-06 21:45:28 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files\Bloody WorkShop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files\Bloody
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files\bloody workshop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files\BloodyWorkShop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files (x86)\Bloody WorkShop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files (x86)\Bloody
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files (x86)\bloody workshop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Program Files (x86)\BloodyWorkShop8
+2026-02-06 21:45:28 - INFO -   ✓ FOUND!
+2026-02-06 21:45:28 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:28 - INFO - Checking: C:\ProgramData\Bloody WorkShop8
+2026-02-06 21:45:28 - INFO - Checking: C:\ProgramData\Bloody
+2026-02-06 21:45:28 - INFO - Checking: C:\ProgramData\bloody workshop8
+2026-02-06 21:45:28 - INFO - Checking: C:\ProgramData\BloodyWorkShop8
+2026-02-06 21:45:28 - INFO -   ✓ FOUND!
+2026-02-06 21:45:28 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Bloody WorkShop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Bloody
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\bloody workshop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\BloodyWorkShop8
+2026-02-06 21:45:28 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Bloody WorkShop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Bloody
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\bloody workshop8
+2026-02-06 21:45:28 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\BloodyWorkShop8
+2026-02-06 21:45:28 - INFO - --- Searching Registry ---
+2026-02-06 21:45:28 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:28 - INFO - Program Data: ['C:\\Program Files (x86)\\BloodyWorkShop8', 'C:\\ProgramData\\BloodyWorkShop8']
+2026-02-06 21:45:28 - INFO - User Data: []
+2026-02-06 21:45:28 - INFO - Registry Keys: []
+2026-02-06 21:45:31 - INFO - === Scanning for: WinRAR 7.13 (64-bit) ===
+2026-02-06 21:45:31 - INFO - Publisher: win.rar GmbH
+2026-02-06 21:45:31 - INFO - Install Location: C:\Program Files\WinRAR
+2026-02-06 21:45:31 - INFO - Name variations: ['WinRAR', 'WinRAR 7.13 (64-bit)', 'winrar 7.13 (64-bit)', 'WinRAR7.13(64-bit)']
+2026-02-06 21:45:31 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR
+2026-02-06 21:45:31 - INFO -   ✓ FOUND!
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\winrar 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR7.13(64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files (x86)\WinRAR
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files (x86)\WinRAR 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files (x86)\winrar 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files (x86)\WinRAR7.13(64-bit)
+2026-02-06 21:45:31 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:31 - INFO - Checking: C:\ProgramData\WinRAR
+2026-02-06 21:45:31 - INFO - Checking: C:\ProgramData\WinRAR 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\ProgramData\winrar 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\ProgramData\WinRAR7.13(64-bit)
+2026-02-06 21:45:31 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\WinRAR
+2026-02-06 21:45:31 - INFO -   ✓ FOUND!
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\WinRAR 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\winrar 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\WinRAR7.13(64-bit)
+2026-02-06 21:45:31 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\WinRAR
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\WinRAR 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\winrar 7.13 (64-bit)
+2026-02-06 21:45:31 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\WinRAR7.13(64-bit)
+2026-02-06 21:45:31 - INFO - --- Checking Install Location: C:\Program Files\WinRAR ---
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR\config
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR\data
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR\settings
+2026-02-06 21:45:31 - INFO - Checking: C:\Program Files\WinRAR\profiles
+2026-02-06 21:45:31 - INFO - --- Searching Registry ---
+2026-02-06 21:45:31 - INFO -   ✓ Found registry: HKEY_CURRENT_USER\Software\WinRAR
+2026-02-06 21:45:31 - INFO -   ✓ Found registry: HKEY_LOCAL_MACHINE\SOFTWARE\WinRAR
+2026-02-06 21:45:31 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:31 - INFO - Program Data: ['C:\\Program Files\\WinRAR']
+2026-02-06 21:45:31 - INFO - User Data: ['C:\\Users\\Hamza Ramzan\\AppData\\Roaming\\WinRAR']
+2026-02-06 21:45:31 - INFO - Registry Keys: ['HKEY_CURRENT_USER\\Software\\WinRAR', 'HKEY_LOCAL_MACHINE\\SOFTWARE\\WinRAR']
+2026-02-06 21:45:32 - INFO - === Scanning for: yt-dlp ===
+2026-02-06 21:45:32 - INFO - Publisher: yt-dlp
+2026-02-06 21:45:32 - INFO - Install Location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:45:32 - INFO - Name variations: ['yt-dlp']
+2026-02-06 21:45:32 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:32 - INFO - Checking: C:\Program Files\yt-dlp
+2026-02-06 21:45:32 - INFO - Checking: C:\Program Files (x86)\yt-dlp
+2026-02-06 21:45:32 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:32 - INFO - Checking: C:\ProgramData\yt-dlp
+2026-02-06 21:45:32 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:32 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\yt-dlp
+2026-02-06 21:45:32 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:32 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\yt-dlp
+2026-02-06 21:45:32 - INFO - --- Checking Install Location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe ---
+2026-02-06 21:45:32 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\config
+2026-02-06 21:45:32 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\data
+2026-02-06 21:45:32 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\settings
+2026-02-06 21:45:32 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\profiles
+2026-02-06 21:45:32 - INFO - --- Searching Registry ---
+2026-02-06 21:45:32 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:32 - INFO - Program Data: []
+2026-02-06 21:45:32 - INFO - User Data: []
+2026-02-06 21:45:32 - INFO - Registry Keys: []
+2026-02-06 21:45:40 - INFO - === Scanning for: yt-dlp ===
+2026-02-06 21:45:40 - INFO - Publisher: yt-dlp
+2026-02-06 21:45:40 - INFO - Install Location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:45:40 - INFO - Name variations: ['yt-dlp']
+2026-02-06 21:45:40 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:40 - INFO - Checking: C:\Program Files\yt-dlp
+2026-02-06 21:45:40 - INFO - Checking: C:\Program Files (x86)\yt-dlp
+2026-02-06 21:45:40 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:40 - INFO - Checking: C:\ProgramData\yt-dlp
+2026-02-06 21:45:40 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:40 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\yt-dlp
+2026-02-06 21:45:40 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:40 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\yt-dlp
+2026-02-06 21:45:40 - INFO - --- Checking Install Location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe ---
+2026-02-06 21:45:40 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\config
+2026-02-06 21:45:40 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\data
+2026-02-06 21:45:40 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\settings
+2026-02-06 21:45:40 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe\profiles
+2026-02-06 21:45:40 - INFO - --- Searching Registry ---
+2026-02-06 21:45:40 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:40 - INFO - Program Data: []
+2026-02-06 21:45:40 - INFO - User Data: []
+2026-02-06 21:45:40 - INFO - Registry Keys: []
+2026-02-06 21:45:54 - INFO - === Scanning for: Sades 7.1CH Gaming Headset ===
+2026-02-06 21:45:54 - INFO - Publisher: SHENZHEN SADES DIGITAL TECHNOLOGY CO.,LTD
+2026-02-06 21:45:54 - INFO - Install Location: C:\Program Files (x86)\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:54 - INFO - Name variations: ['Sades 7.1CH Gaming Headset', 'Sades7.1CHGamingHeadset', 'sades 7.1ch gaming headset', 'Sades']
+2026-02-06 21:45:54 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:54 - INFO -   ✓ FOUND!
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files\Sades7.1CHGamingHeadset
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files\sades 7.1ch gaming headset
+2026-02-06 21:45:54 - INFO -   ✓ FOUND!
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files\Sades
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files (x86)\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files (x86)\Sades7.1CHGamingHeadset
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files (x86)\sades 7.1ch gaming headset
+2026-02-06 21:45:54 - INFO - Checking: C:\Program Files (x86)\Sades
+2026-02-06 21:45:54 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:54 - INFO - Checking: C:\ProgramData\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:54 - INFO - Checking: C:\ProgramData\Sades7.1CHGamingHeadset
+2026-02-06 21:45:54 - INFO - Checking: C:\ProgramData\sades 7.1ch gaming headset
+2026-02-06 21:45:54 - INFO - Checking: C:\ProgramData\Sades
+2026-02-06 21:45:54 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Sades7.1CHGamingHeadset
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\sades 7.1ch gaming headset
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Sades
+2026-02-06 21:45:54 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Sades7.1CHGamingHeadset
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\sades 7.1ch gaming headset
+2026-02-06 21:45:54 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Sades
+2026-02-06 21:45:54 - INFO - --- Searching Registry ---
+2026-02-06 21:45:54 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:54 - INFO - Program Data: ['C:\\Program Files\\Sades 7.1CH Gaming Headset', 'C:\\Program Files\\sades 7.1ch gaming headset']
+2026-02-06 21:45:54 - INFO - User Data: []
+2026-02-06 21:45:54 - INFO - Registry Keys: []
+2026-02-06 21:45:58 - INFO - === Scanning for: Sades 7.1CH Gaming Headset ===
+2026-02-06 21:45:58 - INFO - Publisher: SHENZHEN SADES DIGITAL TECHNOLOGY CO.,LTD
+2026-02-06 21:45:58 - INFO - Install Location: C:\Program Files (x86)\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Name variations: ['Sades 7.1CH Gaming Headset', 'Sades7.1CHGamingHeadset', 'sades 7.1ch gaming headset', 'Sades']
+2026-02-06 21:45:58 - INFO - --- Checking Program Files ---
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO -   ✓ FOUND!
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files\Sades7.1CHGamingHeadset
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files\sades 7.1ch gaming headset
+2026-02-06 21:45:58 - INFO -   ✓ FOUND!
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files\Sades
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files (x86)\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files (x86)\Sades7.1CHGamingHeadset
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files (x86)\sades 7.1ch gaming headset
+2026-02-06 21:45:58 - INFO - Checking: C:\Program Files (x86)\Sades
+2026-02-06 21:45:58 - INFO - --- Checking ProgramData ---
+2026-02-06 21:45:58 - INFO - Checking: C:\ProgramData\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Checking: C:\ProgramData\Sades7.1CHGamingHeadset
+2026-02-06 21:45:58 - INFO - Checking: C:\ProgramData\sades 7.1ch gaming headset
+2026-02-06 21:45:58 - INFO - Checking: C:\ProgramData\Sades
+2026-02-06 21:45:58 - INFO - --- Checking AppData Roaming ---
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Sades7.1CHGamingHeadset
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\sades 7.1ch gaming headset
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Roaming\Sades
+2026-02-06 21:45:58 - INFO - --- Checking AppData Local ---
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Sades7.1CHGamingHeadset
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\sades 7.1ch gaming headset
+2026-02-06 21:45:58 - INFO - Checking: C:\Users\Hamza Ramzan\AppData\Local\Sades
+2026-02-06 21:45:58 - INFO - --- Searching Registry ---
+2026-02-06 21:45:58 - INFO - === FINAL RESULTS ===
+2026-02-06 21:45:58 - INFO - Program Data: ['C:\\Program Files\\Sades 7.1CH Gaming Headset', 'C:\\Program Files\\sades 7.1ch gaming headset']
+2026-02-06 21:45:58 - INFO - User Data: []
+2026-02-06 21:45:58 - INFO - Registry Keys: []
+2026-02-06 21:45:58 - INFO - Starting backup for: Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\Sades 7.1CH Gaming Headset
+2026-02-06 21:45:58 - INFO - Copying Program Data: Sades 7.1CH Gaming Headset
+2026-02-06 21:46:01 - INFO - Backed up: C:\Program Files\Sades 7.1CH Gaming Headset -> E:/BackupSmart\SmartAppBackup\Sades 7.1CH Gaming Headset\ProgramData\ProgramFiles\Sades 7.1CH Gaming Headset
+2026-02-06 21:46:01 - INFO - Copying Program Data: sades 7.1ch gaming headset
+2026-02-06 21:46:02 - INFO - Backed up: C:\Program Files\sades 7.1ch gaming headset -> E:/BackupSmart\SmartAppBackup\Sades 7.1CH Gaming Headset\ProgramData\ProgramFiles\sades 7.1ch gaming headset
+2026-02-06 21:46:02 - INFO - No registry keys to backup
+2026-02-06 21:46:02 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\Sades 7.1CH Gaming Headset\manifest.json
+2026-02-06 21:46:02 - INFO - Added new backup for Sades 7.1CH Gaming Headset
+2026-02-06 21:46:02 - INFO - Saved backup history
+2026-02-06 21:46:02 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:46:02 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\Sades 7.1CH Gaming Headset

@@ -1,0 +1,62 @@
+2026-02-06 21:57:36 - INFO - Logger initialized
+2026-02-06 21:57:36 - INFO - Loaded backup history
+2026-02-06 21:57:36 - INFO - Loaded backup history
+2026-02-06 21:57:36 - INFO - Scanning for installed applications...
+2026-02-06 21:57:36 - INFO - Found 47 installed applications
+2026-02-06 21:57:46 - INFO - === Comprehensive Scan for: CPUID CPU-Z 2.18 ===
+2026-02-06 21:57:46 - INFO - Name variations: ['CPUID.CPU-Z', 'cpuid', 'CPUID-CPU-Z-2.18', 'cpuidcpu-z2.18', 'CPUID_CPU-Z_2.18']...
+2026-02-06 21:57:46 - INFO - ✓ Found program_data: C:\Program Files\cpuid
+2026-02-06 21:57:46 - INFO - ✓ Found program_data: C:\Program Files\CPUID
+2026-02-06 21:57:46 - INFO - Scanning install location: C:\Program Files\CPUID\CPU-Z\
+2026-02-06 21:57:46 - INFO - ✓ Install location has config files: C:\Program Files\CPUID\CPU-Z\
+2026-02-06 21:57:46 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cpuid
+2026-02-06 21:57:46 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-06 21:57:46 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:57:46 - INFO - Program Data: 2 locations
+2026-02-06 21:57:46 - INFO - User Data: 0 locations
+2026-02-06 21:57:46 - INFO - Custom Locations: 0 locations
+2026-02-06 21:57:46 - INFO - Registry Keys: 2 keys
+2026-02-06 21:57:48 - INFO - === Comprehensive Scan for: yt-dlp ===
+2026-02-06 21:57:48 - INFO - Name variations: ['yt-dlp']...
+2026-02-06 21:57:48 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:48 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-06 21:57:48 - INFO - Scanning all drives for application...
+2026-02-06 21:57:48 - INFO - Scanning drive: D:\
+2026-02-06 21:57:48 - INFO - Scanning drive: E:\
+2026-02-06 21:57:48 - INFO - Scanning drive: F:\
+2026-02-06 21:57:48 - INFO - Scanning drive: G:\
+2026-02-06 21:57:48 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:48 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:48 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:57:48 - INFO - Program Data: 0 locations
+2026-02-06 21:57:48 - INFO - User Data: 2 locations
+2026-02-06 21:57:48 - INFO - Custom Locations: 0 locations
+2026-02-06 21:57:48 - INFO - Registry Keys: 0 keys
+2026-02-06 21:57:50 - INFO - === Comprehensive Scan for: yt-dlp ===
+2026-02-06 21:57:50 - INFO - Name variations: ['yt-dlp']...
+2026-02-06 21:57:50 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:50 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-06 21:57:50 - INFO - Scanning all drives for application...
+2026-02-06 21:57:50 - INFO - Scanning drive: D:\
+2026-02-06 21:57:50 - INFO - Scanning drive: E:\
+2026-02-06 21:57:50 - INFO - Scanning drive: F:\
+2026-02-06 21:57:50 - INFO - Scanning drive: G:\
+2026-02-06 21:57:50 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:50 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:50 - INFO - === SCAN COMPLETE ===
+2026-02-06 21:57:50 - INFO - Program Data: 0 locations
+2026-02-06 21:57:50 - INFO - User Data: 2 locations
+2026-02-06 21:57:50 - INFO - Custom Locations: 0 locations
+2026-02-06 21:57:50 - INFO - Registry Keys: 0 keys
+2026-02-06 21:57:50 - INFO - Starting backup for: yt-dlp
+2026-02-06 21:57:50 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\yt-dlp
+2026-02-06 21:57:50 - INFO - Copying User Data: yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:57 - INFO - Backed up: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe -> E:/BackupSmart\SmartAppBackup\yt-dlp\UserData\Local\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:57 - INFO - Copying User Data: yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:57 - INFO - Backed up: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe -> E:/BackupSmart\SmartAppBackup\yt-dlp\UserData\Local\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-06 21:57:57 - INFO - No registry keys to backup
+2026-02-06 21:57:57 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\yt-dlp\manifest.json
+2026-02-06 21:57:57 - INFO - Added new backup for yt-dlp
+2026-02-06 21:57:57 - INFO - Saved backup history
+2026-02-06 21:57:57 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:57:57 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\yt-dlp

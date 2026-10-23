@@ -1,0 +1,16 @@
+{
+  "app_name": "Application Name Here",
+  "program_data_paths": [
+    "%PROGRAMFILES%\\AppName\\config",
+    "%PROGRAMDATA%\\AppName"
+  ],
+  "user_data_paths": [
+    "%APPDATA%\\AppName",
+    "%LOCALAPPDATA%\\AppName",
+    "%USERPROFILE%\\.appname"
+  ],
+  "registry_keys": [
+    "HKEY_CURRENT_USER\\Software\\AppName",
+    "HKEY_LOCAL_MACHINE\\Software\\AppName"
+  ]
+}

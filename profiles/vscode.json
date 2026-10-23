@@ -1,0 +1,11 @@
+{
+  "app_name": "Visual Studio Code",
+  "program_data_paths": [],
+  "user_data_paths": [
+    "%APPDATA%\\Code\\User",
+    "%USERPROFILE%\\.vscode\\extensions"
+  ],
+  "registry_keys": [
+    "HKEY_CURRENT_USER\\Software\\Microsoft\\VSCode"
+  ]
+}

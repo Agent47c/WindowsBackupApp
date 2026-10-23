@@ -1,0 +1,24 @@
+2026-08-04 00:37:32 - INFO - Logger initialized
+2026-08-04 00:37:32 - INFO - Scanning for installed applications...
+2026-08-04 00:37:32 - INFO - Found 52 installed applications
+2026-08-04 00:37:32 - INFO - Scanning for installed applications...
+2026-08-04 00:37:32 - INFO - Found 52 installed applications
+2026-08-04 00:37:32 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 00:37:32 - INFO - Name variations: ['Igor Pavlov.(x64)', 'com.7-zip.25.01', '7-zip-25.01-(x64)', '7-Zip.25.01.(x64)', '7-Zip 25.01']...
+2026-08-04 00:37:32 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 00:37:32 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-08-04 00:37:32 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:37:32 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 00:37:32 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 00:37:32 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 00:37:32 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:37:32 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:37:32 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 00:37:32 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 00:37:32 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 00:37:32 - INFO - === SCAN COMPLETE ===
+2026-08-04 00:37:32 - INFO - Program Data: 1 locations
+2026-08-04 00:37:32 - INFO - User Data: 0 locations
+2026-08-04 00:37:32 - INFO - Custom Locations: 0 locations
+2026-08-04 00:37:32 - INFO - Registry Keys: 6 keys
+2026-08-04 00:37:32 - INFO - Shortcuts: 1 found

@@ -1,0 +1,26 @@
+2026-08-04 01:18:16 - [logger.py:81] - INFO - Logger initialized
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Scanning for installed applications...
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Found 52 installed applications
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Scanning for installed applications...
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Found 52 installed applications
+2026-08-04 01:18:19 - [logger.py:81] - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Name variations: ['Igor Pavlov', '7-Zip', '7-Zip 25.01 (x64)', 'igorpavlov', '7-zip 25.01 (x64)']...
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Extracted installation directory from uninstall path: C:\Program Files\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Scanning install location: C:\Program Files\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-08-04 01:18:19 - [logger.py:81] - INFO - === SCAN COMPLETE ===
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Program Data: 1 locations
+2026-08-04 01:18:19 - [logger.py:81] - INFO - User Data: 0 locations
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Custom Locations: 0 locations
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Registry Keys: 6 keys
+2026-08-04 01:18:19 - [logger.py:81] - INFO - Shortcuts: 1 found

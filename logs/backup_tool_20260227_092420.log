@@ -1,0 +1,602 @@
+2026-02-27 09:24:20 - INFO - Logger initialized
+2026-02-27 09:24:20 - INFO - Scanning for installed applications...
+2026-02-27 09:24:20 - INFO - Found 42 installed applications
+2026-02-27 09:24:26 - INFO - === Comprehensive Scan for: 7-Zip 25.01 (x64) ===
+2026-02-27 09:24:26 - INFO - Name variations: ['igorpavlov', 'igor pavlov', '7-Zip_25.01_(x64)', '7-Zip.25.01.(x64)', '7-Zip 25.01 (x64)']...
+2026-02-27 09:24:26 - INFO - ✓ Found program_data: C:\Program Files\7-Zip
+2026-02-27 09:24:26 - INFO - Scanning install location: C:\Program Files\7-Zip\
+2026-02-27 09:24:26 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-02-27 09:24:26 - INFO - ✓ Registry path found: C:\Program Files\7-Zip\
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\7-Zip
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip
+2026-02-27 09:24:27 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\7-Zip
+2026-02-27 09:24:27 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\7-Zip
+2026-02-27 09:24:27 - INFO - ✓ Found shell extension: HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\7-Zip
+2026-02-27 09:24:27 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip
+2026-02-27 09:24:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip
+2026-02-27 09:24:27 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:27 - INFO - Program Data: 1 locations
+2026-02-27 09:24:27 - INFO - User Data: 0 locations
+2026-02-27 09:24:27 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:27 - INFO - Registry Keys: 6 keys
+2026-02-27 09:24:27 - INFO - Shortcuts: 1 found
+2026-02-27 09:24:27 - INFO - === Comprehensive Scan for: Adobe After Effects 2025 ===
+2026-02-27 09:24:27 - INFO - Name variations: ['AdobeAfterEffects2025', 'Adobe_After_Effects', 'Adobe', 'adobe after effects 2025', 'Adobe.Effects']...
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files (x86)\Common Files\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\ProgramData\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\ProgramData\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\LocalLow\adobe
+2026-02-27 09:24:27 - INFO - Scanning install location: C:\Program Files\Adobe
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe After Effects 2025
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Adobe.\Adobe Creative Cloud Experience
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Adobe.\Adobe Creative Cloud Experience
+2026-02-27 09:24:27 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Adobe.
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Illustrator 29 Settings
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe Media Encoder
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\Adobe PDF
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\Adobe.\After Effects
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Adobe.\AdobeSync
+2026-02-27 09:24:27 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\LocalLow\Adobe.
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\adobe
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\adobe
+2026-02-27 09:24:27 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AEFT_25_4
+2026-02-27 09:24:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe After Effects 2025.lnk
+2026-02-27 09:24:27 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe After Effects 2025.lnk
+2026-02-27 09:24:27 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Adobe Premiere Pro 2025.lnk
+2026-02-27 09:24:27 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:27 - INFO - Program Data: 10 locations
+2026-02-27 09:24:27 - INFO - User Data: 10 locations
+2026-02-27 09:24:27 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:27 - INFO - Registry Keys: 7 keys
+2026-02-27 09:24:27 - INFO - Shortcuts: 3 found
+2026-02-27 09:24:27 - INFO - === Comprehensive Scan for: AEJuice Pack Manager version 25.12.1015 ===
+2026-02-27 09:24:27 - INFO - Name variations: ['AEJuice-Pack-Manager-version', 'aejuicepackmanagerversion25.12.1015', 'AEJuice.version', 'com.aejuice.pack', 'aejuice-pack-manager-version-25.12.1015']...
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\aejuice
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\Program Files\Common Files\AEJuice
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\ProgramData\aejuice
+2026-02-27 09:24:27 - INFO - ✓ Found program_data: C:\ProgramData\AEJuice
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\aejuice
+2026-02-27 09:24:27 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice
+2026-02-27 09:24:27 - INFO - Scanning install location: C:\Program Files\AEJuice Pack Manager\
+2026-02-27 09:24:27 - INFO - ✓ Install location has config files: C:\Program Files\AEJuice Pack Manager\
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice\AEJuice Pack Manager for Premiere Pro
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice\AEJuice Pack Manager V2
+2026-02-27 09:24:27 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Roaming\AEJuice\Pack Manager
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\aejuice
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\AEJuice
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\aejuice
+2026-02-27 09:24:27 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\AEJuice
+2026-02-27 09:24:27 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{A38A03B4-EC8B-4BBB-B6EE-5ED8D5893B64}_is1
+2026-02-27 09:24:27 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AEJuice Pack Manager Standalone.lnk
+2026-02-27 09:24:27 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:27 - INFO - Program Data: 3 locations
+2026-02-27 09:24:27 - INFO - User Data: 4 locations
+2026-02-27 09:24:27 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:27 - INFO - Registry Keys: 5 keys
+2026-02-27 09:24:27 - INFO - Shortcuts: 1 found
+2026-02-27 09:24:28 - INFO - === Comprehensive Scan for: Bloody WorkShop8 ===
+2026-02-27 09:24:28 - INFO - Name variations: ['Bloody', 'Bloody.WorkShop8', 'bloody workshop8', 'bloodyworkshop8', 'bloody']...
+2026-02-27 09:24:28 - INFO - ✓ Found program_data: C:\Program Files (x86)\bloodyworkshop8
+2026-02-27 09:24:28 - INFO - ✓ Found program_data: C:\Program Files (x86)\BloodyWorkShop8
+2026-02-27 09:24:28 - INFO - ✓ Found program_data: C:\ProgramData\bloodyworkshop8
+2026-02-27 09:24:28 - INFO - ✓ Found program_data: C:\ProgramData\BloodyWorkShop8
+2026-02-27 09:24:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bloody
+2026-02-27 09:24:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\bloody
+2026-02-27 09:24:28 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Bloody3
+2026-02-27 09:24:28 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Bloody
+2026-02-27 09:24:28 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\Bloody WorkShop8.lnk
+2026-02-27 09:24:28 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:28 - INFO - Program Data: 2 locations
+2026-02-27 09:24:28 - INFO - User Data: 0 locations
+2026-02-27 09:24:28 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:28 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:28 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:28 - INFO - === Comprehensive Scan for: CPUID CPU-Z 2.18 ===
+2026-02-27 09:24:28 - INFO - Name variations: ['CPUIDCPU-Z', 'CPUID', 'CPUID-CPU-Z', 'cpuid cpu-z', 'cpuidcpu-z2.18']...
+2026-02-27 09:24:28 - INFO - ✓ Found program_data: C:\Program Files\CPUID
+2026-02-27 09:24:28 - INFO - ✓ Found program_data: C:\Program Files\cpuid
+2026-02-27 09:24:28 - INFO - Scanning install location: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:28 - INFO - ✓ Install location has config files: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:28 - INFO -   ✓ Publisher sub-folder: C:\Program Files\CPUID\CPU-Z
+2026-02-27 09:24:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-27 09:24:28 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cpuid
+2026-02-27 09:24:28 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CPUID CPU-Z_is1
+2026-02-27 09:24:28 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CPUID
+2026-02-27 09:24:28 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\CPUID CPU-Z.lnk
+2026-02-27 09:24:28 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:28 - INFO - Program Data: 2 locations
+2026-02-27 09:24:28 - INFO - User Data: 0 locations
+2026-02-27 09:24:28 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:28 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:28 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:28 - INFO - === Comprehensive Scan for: Deno ===
+2026-02-27 09:24:28 - INFO - Name variations: ['Deno', 'denoland', 'DenoLand', 'deno land', 'Deno Land.Deno']...
+2026-02-27 09:24:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Deno
+2026-02-27 09:24:28 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\deno
+2026-02-27 09:24:28 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:28 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:28 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:28 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:28 - INFO - Program Data: 0 locations
+2026-02-27 09:24:28 - INFO - User Data: 2 locations
+2026-02-27 09:24:28 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:28 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:28 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:29 - INFO - === Comprehensive Scan for: Epic Online Services ===
+2026-02-27 09:24:29 - INFO - Name variations: ['EpicGames', 'Epic', 'epic games', 'Epic-Online-Services', 'epic online services']...
+2026-02-27 09:24:29 - INFO - ✓ Found program_data: C:\Program Files\epic games
+2026-02-27 09:24:29 - INFO - ✓ Found program_data: C:\Program Files\Epic Games
+2026-02-27 09:24:29 - INFO - ✓ Found program_data: C:\Program Files (x86)\epic games
+2026-02-27 09:24:29 - INFO - ✓ Found program_data: C:\Program Files (x86)\Epic Games
+2026-02-27 09:24:29 - INFO - ✓ Found program_data: C:\ProgramData\Epic
+2026-02-27 09:24:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\epic games
+2026-02-27 09:24:29 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Epic Games
+2026-02-27 09:24:29 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Epic Games\Epic Online Services
+2026-02-27 09:24:29 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicGamesLauncher
+2026-02-27 09:24:29 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServices
+2026-02-27 09:24:29 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServicesShared
+2026-02-27 09:24:29 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Epic Games\Epic Online Services
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\epic games
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Epic Games
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\EpicGames
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epic games
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Epic Games
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epicgames
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EpicGames
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epic games
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Epic Games
+2026-02-27 09:24:29 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epicgames
+2026-02-27 09:24:29 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{6730F587-C259-4C4C-A527-F7FF31D970F8}
+2026-02-27 09:24:29 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk
+2026-02-27 09:24:29 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\Epic Games Launcher.lnk
+2026-02-27 09:24:29 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:29 - INFO - Program Data: 7 locations
+2026-02-27 09:24:29 - INFO - User Data: 2 locations
+2026-02-27 09:24:29 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:29 - INFO - Registry Keys: 11 keys
+2026-02-27 09:24:29 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:29 - INFO - === Comprehensive Scan for: GameLoop ===
+2026-02-27 09:24:29 - INFO - Name variations: ['gameloop', 'com.tencent technology company.gameloop', 'TencentTechnologyCompany', 'tencenttechnologycompany', 'Tencent Technology Company']...
+2026-02-27 09:24:29 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Tencent
+2026-02-27 09:24:29 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Roaming\Tencent
+2026-02-27 09:24:29 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Local\Tencent
+2026-02-27 09:24:29 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileGamePC
+2026-02-27 09:24:29 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tencent Software
+2026-02-27 09:24:29 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Gameloop.lnk
+2026-02-27 09:24:29 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:29 - INFO - Program Data: 1 locations
+2026-02-27 09:24:29 - INFO - User Data: 2 locations
+2026-02-27 09:24:29 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:29 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:29 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:30 - INFO - === Comprehensive Scan for: Deno ===
+2026-02-27 09:24:30 - INFO - Name variations: ['Deno', 'denoland', 'DenoLand', 'deno land', 'Deno Land.Deno']...
+2026-02-27 09:24:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Deno
+2026-02-27 09:24:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\deno
+2026-02-27 09:24:30 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:30 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:30 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:30 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:30 - INFO - Program Data: 0 locations
+2026-02-27 09:24:30 - INFO - User Data: 2 locations
+2026-02-27 09:24:30 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:30 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:30 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:30 - INFO - === Comprehensive Scan for: CPUID CPU-Z 2.18 ===
+2026-02-27 09:24:30 - INFO - Name variations: ['CPUIDCPU-Z', 'CPUID', 'CPUID-CPU-Z', 'cpuid cpu-z', 'cpuidcpu-z2.18']...
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\Program Files\CPUID
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\Program Files\cpuid
+2026-02-27 09:24:30 - INFO - Scanning install location: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:30 - INFO - ✓ Install location has config files: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\CPUID\CPU-Z
+2026-02-27 09:24:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-27 09:24:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cpuid
+2026-02-27 09:24:30 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CPUID CPU-Z_is1
+2026-02-27 09:24:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CPUID
+2026-02-27 09:24:30 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\CPUID CPU-Z.lnk
+2026-02-27 09:24:30 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:30 - INFO - Program Data: 2 locations
+2026-02-27 09:24:30 - INFO - User Data: 0 locations
+2026-02-27 09:24:30 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:30 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:30 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:30 - INFO - === Comprehensive Scan for: CPUID CPU-Z 2.18 ===
+2026-02-27 09:24:30 - INFO - Name variations: ['CPUIDCPU-Z', 'CPUID', 'CPUID-CPU-Z', 'cpuid cpu-z', 'cpuidcpu-z2.18']...
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\Program Files\CPUID
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\Program Files\cpuid
+2026-02-27 09:24:30 - INFO - Scanning install location: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:30 - INFO - ✓ Install location has config files: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\CPUID\CPU-Z
+2026-02-27 09:24:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-27 09:24:30 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cpuid
+2026-02-27 09:24:30 - INFO - === Comprehensive Scan for: Cloudflare WARP ===
+2026-02-27 09:24:30 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CPUID CPU-Z_is1
+2026-02-27 09:24:30 - INFO - Name variations: ['Cloudflare_WARP', 'cloudflare warp', 'cloudflarewarp', 'Cloudflare WARP', 'Cloudflare.WARP']...
+2026-02-27 09:24:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CPUID
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\Program Files\Cloudflare
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\Program Files\cloudflare
+2026-02-27 09:24:30 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\CPUID CPU-Z.lnk
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\ProgramData\Cloudflare
+2026-02-27 09:24:30 - INFO - ✓ Found program_data: C:\ProgramData\cloudflare
+2026-02-27 09:24:30 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:30 - INFO - Program Data: 2 locations
+2026-02-27 09:24:30 - INFO - User Data: 0 locations
+2026-02-27 09:24:30 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:30 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:30 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-02-27 09:24:30 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\cloudflare
+2026-02-27 09:24:30 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Cloudflare\Cloudflare WARP
+2026-02-27 09:24:30 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Cloudflare
+2026-02-27 09:24:30 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\cloudflare
+2026-02-27 09:24:30 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{52FF2904-786A-4EB8-9246-D373FEF91BAC}
+2026-02-27 09:24:30 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Cloudflare
+2026-02-27 09:24:30 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:30 - INFO - Program Data: 3 locations
+2026-02-27 09:24:30 - INFO - User Data: 1 locations
+2026-02-27 09:24:30 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:30 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:30 - INFO - Shortcuts: 1 found
+2026-02-27 09:24:33 - INFO - === Comprehensive Scan for: FFmpeg for yt-dlp ===
+2026-02-27 09:24:33 - INFO - Name variations: ['ffmpeg for yt-dlp', 'FFmpeg-for-yt-dlp', 'yt-dlp.yt-dlp', 'ffmpegforyt-dlp', 'com.yt-dlp.yt-dlp']...
+2026-02-27 09:24:33 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-27 09:24:33 - INFO - Scanning all drives for application...
+2026-02-27 09:24:33 - INFO - Scanning drive: D:\
+2026-02-27 09:24:33 - INFO - Scanning drive: E:\
+2026-02-27 09:24:33 - INFO - Scanning drive: F:\
+2026-02-27 09:24:33 - INFO - Scanning drive: G:\
+2026-02-27 09:24:33 - INFO - Scanning drive: H:\
+2026-02-27 09:24:33 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:33 - INFO - Program Data: 0 locations
+2026-02-27 09:24:33 - INFO - User Data: 2 locations
+2026-02-27 09:24:33 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:33 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:33 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:33 - INFO - === Comprehensive Scan for: Discord ===
+2026-02-27 09:24:33 - INFO - Name variations: ['Discord.Discord', 'Discord', 'discord', 'com.discord.discord']...
+2026-02-27 09:24:33 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Discord
+2026-02-27 09:24:33 - INFO - ✓ Found program_data: C:\Program Files\Common Files\discord
+2026-02-27 09:24:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Discord
+2026-02-27 09:24:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\discord
+2026-02-27 09:24:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-27 09:24:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\discord
+2026-02-27 09:24:33 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-27 09:24:33 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Roaming\Discord.
+2026-02-27 09:24:33 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Local\Discord.
+2026-02-27 09:24:33 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Discord
+2026-02-27 09:24:33 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\discord
+2026-02-27 09:24:33 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Discord
+2026-02-27 09:24:33 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc
+2026-02-27 09:24:33 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Discord.lnk
+2026-02-27 09:24:33 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:33 - INFO - Program Data: 1 locations
+2026-02-27 09:24:33 - INFO - User Data: 4 locations
+2026-02-27 09:24:33 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:33 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:33 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:33 - INFO - === Comprehensive Scan for: Deno ===
+2026-02-27 09:24:33 - INFO - Name variations: ['Deno', 'denoland', 'DenoLand', 'deno land', 'Deno Land.Deno']...
+2026-02-27 09:24:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Deno
+2026-02-27 09:24:33 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\deno
+2026-02-27 09:24:33 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:33 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:33 - INFO - Program Data: 0 locations
+2026-02-27 09:24:33 - INFO - User Data: 2 locations
+2026-02-27 09:24:33 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:33 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:33 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:34 - INFO - === Comprehensive Scan for: CPUID CPU-Z 2.18 ===
+2026-02-27 09:24:34 - INFO - Name variations: ['CPUIDCPU-Z', 'CPUID', 'CPUID-CPU-Z', 'cpuid cpu-z', 'cpuidcpu-z2.18']...
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\Program Files\CPUID
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\Program Files\cpuid
+2026-02-27 09:24:34 - INFO - Scanning install location: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:34 - INFO - ✓ Install location has config files: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\CPUID\CPU-Z
+2026-02-27 09:24:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-27 09:24:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cpuid
+2026-02-27 09:24:34 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CPUID CPU-Z_is1
+2026-02-27 09:24:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CPUID
+2026-02-27 09:24:34 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\CPUID CPU-Z.lnk
+2026-02-27 09:24:34 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:34 - INFO - Program Data: 2 locations
+2026-02-27 09:24:34 - INFO - User Data: 0 locations
+2026-02-27 09:24:34 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:34 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:34 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:34 - INFO - === Comprehensive Scan for: Cloudflare WARP ===
+2026-02-27 09:24:34 - INFO - Name variations: ['Cloudflare_WARP', 'cloudflare warp', 'cloudflarewarp', 'Cloudflare WARP', 'Cloudflare.WARP']...
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\Program Files\Cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\Program Files\cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\ProgramData\Cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\ProgramData\cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\cloudflare
+2026-02-27 09:24:34 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Cloudflare\Cloudflare WARP
+2026-02-27 09:24:34 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\cloudflare
+2026-02-27 09:24:34 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{52FF2904-786A-4EB8-9246-D373FEF91BAC}
+2026-02-27 09:24:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Cloudflare
+2026-02-27 09:24:34 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:34 - INFO - Program Data: 3 locations
+2026-02-27 09:24:34 - INFO - User Data: 1 locations
+2026-02-27 09:24:34 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:34 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:34 - INFO - Shortcuts: 1 found
+2026-02-27 09:24:34 - INFO - === Comprehensive Scan for: Bloody WorkShop8 ===
+2026-02-27 09:24:34 - INFO - Name variations: ['Bloody', 'Bloody.WorkShop8', 'bloody workshop8', 'bloodyworkshop8', 'bloody']...
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\Program Files (x86)\bloodyworkshop8
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\Program Files (x86)\BloodyWorkShop8
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\ProgramData\bloodyworkshop8
+2026-02-27 09:24:34 - INFO - ✓ Found program_data: C:\ProgramData\BloodyWorkShop8
+2026-02-27 09:24:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bloody
+2026-02-27 09:24:34 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\bloody
+2026-02-27 09:24:34 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Bloody3
+2026-02-27 09:24:34 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Bloody
+2026-02-27 09:24:34 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\Bloody WorkShop8.lnk
+2026-02-27 09:24:34 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:34 - INFO - Program Data: 2 locations
+2026-02-27 09:24:34 - INFO - User Data: 0 locations
+2026-02-27 09:24:34 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:34 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:34 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:35 - INFO - === Comprehensive Scan for: CPUID CPU-Z 2.18 ===
+2026-02-27 09:24:35 - INFO - Name variations: ['CPUIDCPU-Z', 'CPUID', 'CPUID-CPU-Z', 'cpuid cpu-z', 'cpuidcpu-z2.18']...
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\CPUID
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\cpuid
+2026-02-27 09:24:35 - INFO - Scanning install location: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:35 - INFO - ✓ Install location has config files: C:\Program Files\CPUID\CPU-Z\
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\CPUID\CPU-Z
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\CPUID
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\cpuid
+2026-02-27 09:24:35 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CPUID CPU-Z_is1
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CPUID
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\CPUID CPU-Z.lnk
+2026-02-27 09:24:35 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:35 - INFO - Program Data: 2 locations
+2026-02-27 09:24:35 - INFO - User Data: 0 locations
+2026-02-27 09:24:35 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:35 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:35 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:35 - INFO - === Comprehensive Scan for: CrystalDiskInfo 9.7.2 ===
+2026-02-27 09:24:35 - INFO - Name variations: ['crystaldiskinfo', 'crystal dew world', 'Crystal Dew World.CrystalDiskInfo', 'com.crystal dew world.crystaldiskinfo', 'CrystalDiskInfo']...
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\crystaldiskinfo
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\CrystalDiskInfo
+2026-02-27 09:24:35 - INFO - Scanning install location: C:\Program Files\CrystalDiskInfo\
+2026-02-27 09:24:35 - INFO - ✓ Install location has config files: C:\Program Files\CrystalDiskInfo\
+2026-02-27 09:24:35 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CrystalDiskInfo_is1
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CrystalDiskInfo
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\CrystalDiskInfo.lnk
+2026-02-27 09:24:35 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:35 - INFO - Program Data: 1 locations
+2026-02-27 09:24:35 - INFO - User Data: 0 locations
+2026-02-27 09:24:35 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:35 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:35 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:35 - INFO - === Comprehensive Scan for: Deno ===
+2026-02-27 09:24:35 - INFO - Name variations: ['Deno', 'denoland', 'DenoLand', 'deno land', 'Deno Land.Deno']...
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Deno
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\deno
+2026-02-27 09:24:35 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:35 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:35 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:35 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:35 - INFO - Program Data: 0 locations
+2026-02-27 09:24:35 - INFO - User Data: 2 locations
+2026-02-27 09:24:35 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:35 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:35 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:35 - INFO - === Comprehensive Scan for: Discord ===
+2026-02-27 09:24:35 - INFO - Name variations: ['Discord.Discord', 'Discord', 'discord', 'com.discord.discord']...
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\Common Files\Discord
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\Common Files\discord
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\Discord
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Roaming\discord
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\discord
+2026-02-27 09:24:35 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Discord
+2026-02-27 09:24:35 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Roaming\Discord.
+2026-02-27 09:24:35 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Local\Discord.
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Discord
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\discord
+2026-02-27 09:24:35 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Discord
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Discord.lnk
+2026-02-27 09:24:35 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:35 - INFO - Program Data: 1 locations
+2026-02-27 09:24:35 - INFO - User Data: 4 locations
+2026-02-27 09:24:35 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:35 - INFO - Registry Keys: 3 keys
+2026-02-27 09:24:35 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:35 - INFO - === Comprehensive Scan for: Epic Games Launcher ===
+2026-02-27 09:24:35 - INFO - Name variations: ['epic-games-launcher', 'EpicGames', 'Epic', 'epic games', 'EpicGamesLauncher']...
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\ProgramData\Epic
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\EpicGamesLauncher
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\epicgameslauncher
+2026-02-27 09:24:35 - INFO - Scanning install location: C:\Program Files\Epic Games\
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files\Epic Games\Launcher
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Epic Games\Epic Online Services
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicGamesLauncher
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServices
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServicesShared
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Epic Games\Epic Online Services
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\EpicGames
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epicgames
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EpicGames
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epicgames
+2026-02-27 09:24:35 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A19915AF-B486-4D47-8092-85DF246FA797}
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\Epic Games Launcher.lnk
+2026-02-27 09:24:35 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:35 - INFO - Program Data: 8 locations
+2026-02-27 09:24:35 - INFO - User Data: 3 locations
+2026-02-27 09:24:35 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:35 - INFO - Registry Keys: 11 keys
+2026-02-27 09:24:35 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:35 - INFO - === Comprehensive Scan for: Epic Online Services ===
+2026-02-27 09:24:35 - INFO - Name variations: ['EpicGames', 'Epic', 'epic games', 'Epic-Online-Services', 'epic online services']...
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\Program Files (x86)\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found program_data: C:\ProgramData\Epic
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Epic Games
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Epic Games\Epic Online Services
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicGamesLauncher
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServices
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServicesShared
+2026-02-27 09:24:35 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Epic Games\Epic Online Services
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\EpicGames
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epicgames
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EpicGames
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epic games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Epic Games
+2026-02-27 09:24:35 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epicgames
+2026-02-27 09:24:35 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{6730F587-C259-4C4C-A527-F7FF31D970F8}
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk
+2026-02-27 09:24:35 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\Epic Games Launcher.lnk
+2026-02-27 09:24:35 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:35 - INFO - Program Data: 7 locations
+2026-02-27 09:24:35 - INFO - User Data: 2 locations
+2026-02-27 09:24:35 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:35 - INFO - Registry Keys: 11 keys
+2026-02-27 09:24:35 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:36 - INFO - === Comprehensive Scan for: Epic Online Services ===
+2026-02-27 09:24:36 - INFO - Name variations: ['EpicGames', 'Epic', 'epic games', 'Epic-Online-Services', 'epic online services']...
+2026-02-27 09:24:36 - INFO - ✓ Found program_data: C:\Program Files\epic games
+2026-02-27 09:24:36 - INFO - ✓ Found program_data: C:\Program Files\Epic Games
+2026-02-27 09:24:36 - INFO - ✓ Found program_data: C:\Program Files (x86)\epic games
+2026-02-27 09:24:36 - INFO - ✓ Found program_data: C:\Program Files (x86)\Epic Games
+2026-02-27 09:24:36 - INFO - ✓ Found program_data: C:\ProgramData\Epic
+2026-02-27 09:24:36 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\epic games
+2026-02-27 09:24:36 - INFO - ✓ Found user_data: C:\Users\Hamza Ramzan\AppData\Local\Epic Games
+2026-02-27 09:24:36 - INFO -   ✓ Publisher sub-folder: C:\Program Files (x86)\Epic Games\Epic Online Services
+2026-02-27 09:24:36 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicGamesLauncher
+2026-02-27 09:24:36 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServices
+2026-02-27 09:24:36 - INFO -   ✓ Publisher sub-folder: C:\ProgramData\Epic\EpicOnlineServicesShared
+2026-02-27 09:24:36 - INFO -   ✓ Publisher sub-folder: C:\Users\Hamza Ramzan\AppData\Local\Epic Games\Epic Online Services
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\epic games
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_CURRENT_USER\Software\Epic Games
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\EpicGames
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epic games
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Epic Games
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\epicgames
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EpicGames
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epic games
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Epic Games
+2026-02-27 09:24:36 - INFO - ✓ Found registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\epicgames
+2026-02-27 09:24:36 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{6730F587-C259-4C4C-A527-F7FF31D970F8}
+2026-02-27 09:24:36 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk
+2026-02-27 09:24:36 - INFO - ✓ Found shortcut: C:\Users\Public\Desktop\Epic Games Launcher.lnk
+2026-02-27 09:24:36 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:36 - INFO - Program Data: 7 locations
+2026-02-27 09:24:36 - INFO - User Data: 2 locations
+2026-02-27 09:24:36 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:36 - INFO - Registry Keys: 11 keys
+2026-02-27 09:24:36 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:36 - INFO - === Comprehensive Scan for: GameLoop ===
+2026-02-27 09:24:36 - INFO - Name variations: ['gameloop', 'com.tencent technology company.gameloop', 'TencentTechnologyCompany', 'tencenttechnologycompany', 'Tencent Technology Company']...
+2026-02-27 09:24:36 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Tencent
+2026-02-27 09:24:36 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Roaming\Tencent
+2026-02-27 09:24:36 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Local\Tencent
+2026-02-27 09:24:36 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileGamePC
+2026-02-27 09:24:36 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tencent Software
+2026-02-27 09:24:36 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Gameloop.lnk
+2026-02-27 09:24:36 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:36 - INFO - Program Data: 1 locations
+2026-02-27 09:24:36 - INFO - User Data: 2 locations
+2026-02-27 09:24:36 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:36 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:36 - INFO - Shortcuts: 2 found
+2026-02-27 09:24:37 - INFO - === Comprehensive Scan for: FFmpeg for yt-dlp ===
+2026-02-27 09:24:37 - INFO - Name variations: ['ffmpeg for yt-dlp', 'FFmpeg-for-yt-dlp', 'yt-dlp.yt-dlp', 'ffmpegforyt-dlp', 'com.yt-dlp.yt-dlp']...
+2026-02-27 09:24:37 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:37 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-27 09:24:37 - INFO - Scanning all drives for application...
+2026-02-27 09:24:37 - INFO - Scanning drive: D:\
+2026-02-27 09:24:37 - INFO - Scanning drive: E:\
+2026-02-27 09:24:37 - INFO - Scanning drive: F:\
+2026-02-27 09:24:37 - INFO - Scanning drive: G:\
+2026-02-27 09:24:37 - INFO - Scanning drive: H:\
+2026-02-27 09:24:37 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:37 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:37 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:37 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:37 - INFO - Program Data: 0 locations
+2026-02-27 09:24:37 - INFO - User Data: 2 locations
+2026-02-27 09:24:37 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:37 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:37 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:38 - INFO - === Comprehensive Scan for: FFmpeg for yt-dlp ===
+2026-02-27 09:24:38 - INFO - Name variations: ['ffmpeg for yt-dlp', 'FFmpeg-for-yt-dlp', 'yt-dlp.yt-dlp', 'ffmpegforyt-dlp', 'com.yt-dlp.yt-dlp']...
+2026-02-27 09:24:38 - INFO - Scanning install location: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:38 - INFO - No paths found in standard locations, scanning all drives...
+2026-02-27 09:24:38 - INFO - Scanning all drives for application...
+2026-02-27 09:24:38 - INFO - Scanning drive: D:\
+2026-02-27 09:24:38 - INFO - Scanning drive: E:\
+2026-02-27 09:24:38 - INFO - Scanning drive: F:\
+2026-02-27 09:24:38 - INFO - Scanning drive: G:\
+2026-02-27 09:24:38 - INFO - Scanning drive: H:\
+2026-02-27 09:24:38 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:38 - INFO - ✓ Found WinGet package: C:\Users\Hamza Ramzan\AppData\Local\Microsoft\WinGet\Packages\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:38 - INFO - ✓ Added Uninstall registry key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+2026-02-27 09:24:38 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:38 - INFO - Program Data: 0 locations
+2026-02-27 09:24:38 - INFO - User Data: 2 locations
+2026-02-27 09:24:38 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:38 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:38 - INFO - Shortcuts: 0 found
+2026-02-27 09:24:39 - INFO - === Comprehensive Scan for: GameLoop ===
+2026-02-27 09:24:39 - INFO - Name variations: ['gameloop', 'com.tencent technology company.gameloop', 'TencentTechnologyCompany', 'tencenttechnologycompany', 'Tencent Technology Company']...
+2026-02-27 09:24:39 - INFO -   ✓ Publisher folder (all): C:\ProgramData\Tencent
+2026-02-27 09:24:39 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Roaming\Tencent
+2026-02-27 09:24:39 - INFO -   ✓ Publisher folder (all): C:\Users\Hamza Ramzan\AppData\Local\Tencent
+2026-02-27 09:24:39 - INFO - ✓ Added Uninstall registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileGamePC
+2026-02-27 09:24:39 - INFO - ✓ Found shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tencent Software
+2026-02-27 09:24:39 - INFO - ✓ Found shortcut: C:\Users\Hamza Ramzan\Desktop\Gameloop.lnk
+2026-02-27 09:24:39 - INFO - === SCAN COMPLETE ===
+2026-02-27 09:24:39 - INFO - Program Data: 1 locations
+2026-02-27 09:24:39 - INFO - User Data: 2 locations
+2026-02-27 09:24:39 - INFO - Custom Locations: 0 locations
+2026-02-27 09:24:39 - INFO - Registry Keys: 1 keys
+2026-02-27 09:24:39 - INFO - Shortcuts: 2 found

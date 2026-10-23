@@ -1,0 +1,19 @@
+2026-02-06 22:22:02 - INFO - Logger initialized
+2026-02-06 22:22:02 - INFO - Loaded backup history
+2026-02-06 22:22:02 - INFO - Loaded backup history
+2026-02-06 22:22:02 - INFO - Scanning for installed applications...
+2026-02-06 22:22:02 - INFO - Found 46 installed applications
+2026-02-06 22:22:09 - INFO - Loaded manifest for: MSI Afterburner 4.6.5
+2026-02-06 22:22:09 - INFO - Starting restore for: MSI Afterburner 4.6.5
+2026-02-06 22:22:09 - INFO - Restoring Program Data from: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData
+2026-02-06 22:22:09 - INFO - Restoring: MSI Afterburner
+2026-02-06 22:22:09 - INFO - Removing existing directory: C:\Program Files (x86)\MSI Afterburner
+2026-02-06 22:22:11 - INFO - ✓ Restored: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData\ProgramFiles_x86\MSI Afterburner -> C:\Program Files (x86)\MSI Afterburner
+2026-02-06 22:22:11 - INFO - Restoring User Data from: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\UserData
+2026-02-06 22:22:11 - INFO - Importing registry keys...
+2026-02-06 22:22:11 - INFO - Imported registry file: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\Registry\registry_key_1.reg
+2026-02-06 22:22:11 - INFO - Imported registry file: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.5\Registry\registry_key_2.reg
+2026-02-06 22:22:11 - INFO - Imported 2 registry keys
+2026-02-06 22:22:11 - INFO - Restore completed successfully
+2026-02-06 22:22:19 - INFO - Scanning for installed applications...
+2026-02-06 22:22:19 - INFO - Found 46 installed applications

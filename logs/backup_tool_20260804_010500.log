@@ -1,0 +1,24 @@
+2026-08-04 01:05:00 - INFO - Logger initialized
+2026-08-04 01:05:00 - INFO - Loaded backup history
+2026-08-04 01:05:00 - INFO - Loaded backup history
+2026-08-04 01:05:00 - INFO - Scanning for installed applications...
+2026-08-04 01:05:00 - INFO - Found 51 installed applications
+2026-08-04 01:05:05 - INFO - Loaded manifest for: BitTorrent
+2026-08-04 01:05:05 - INFO - Starting restore for: BitTorrent
+2026-08-04 01:05:05 - INFO - Restoring Program Data from: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\ProgramData
+2026-08-04 01:05:05 - INFO - Restoring User Data from: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\UserData
+2026-08-04 01:05:05 - INFO - Restoring files to: C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:05:06 - INFO - ✓ Restored BitTorrent: 933 copied, 0 skipped, 0 failed -> C:\Users\Hamza Ramzan\AppData\Roaming\BitTorrent
+2026-08-04 01:05:06 - INFO - ✓ Restored BitTorrent (933 files)
+2026-08-04 01:05:06 - INFO - Restoring 2 shortcuts...
+2026-08-04 01:05:06 - INFO - Restored shortcut: BitTorrent.lnk
+2026-08-04 01:05:06 - INFO - ✓ Restored shortcut: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Shortcuts\BitTorrent.lnk -> C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BitTorrent.lnk
+2026-08-04 01:05:06 - INFO - Restored shortcut: BitTorrent.lnk
+2026-08-04 01:05:06 - INFO - ✓ Restored shortcut: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Shortcuts\BitTorrent.lnk -> C:\Users\Hamza Ramzan\Desktop\BitTorrent.lnk
+2026-08-04 01:05:06 - INFO - Restored 2 shortcuts
+2026-08-04 01:05:06 - INFO - Importing registry keys...
+2026-08-04 01:05:06 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Registry\registry_1.reg
+2026-08-04 01:05:06 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Registry\registry_2.reg
+2026-08-04 01:05:06 - INFO - Imported registry file: D:\SmartBackup\backups\SmartAppBackup\BitTorrent\Registry\registry_3.reg
+2026-08-04 01:05:06 - INFO - Imported 3 registry keys
+2026-08-04 01:05:06 - INFO - Restore completed successfully (933 files restored)

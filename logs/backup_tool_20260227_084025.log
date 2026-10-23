@@ -1,0 +1,24 @@
+2026-02-27 08:40:25 - INFO - Logger initialized
+2026-02-27 08:40:25 - INFO - Loaded backup history
+2026-02-27 08:40:25 - INFO - Loaded backup history
+2026-02-27 08:40:25 - INFO - Scanning for installed applications...
+2026-02-27 08:40:25 - INFO - Found 41 installed applications
+2026-02-27 08:40:36 - INFO - Loaded manifest for: MSI Afterburner 4.6.5
+2026-02-27 08:40:36 - INFO - Starting restore for: MSI Afterburner 4.6.5
+2026-02-27 08:40:36 - INFO - Restoring Program Data from: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData
+2026-02-27 08:40:36 - INFO - Restoring: MSI Afterburner
+2026-02-27 08:40:36 - INFO - Removing existing directory: C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:40:38 - INFO - ✓ Restored: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\ProgramData\ProgramFiles_x86\MSI Afterburner -> C:\Program Files (x86)\MSI Afterburner
+2026-02-27 08:40:38 - INFO - Restoring User Data from: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\UserData
+2026-02-27 08:40:38 - INFO - Restoring 2 shortcuts...
+2026-02-27 08:40:38 - INFO - Restored shortcut folder: MSI Afterburner
+2026-02-27 08:40:38 - INFO - ✓ Restored shortcut: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Shortcuts\MSI Afterburner -> C:\Users\Hamza Ramzan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner
+2026-02-27 08:40:38 - INFO - Restored shortcut: MSI Afterburner.lnk
+2026-02-27 08:40:38 - INFO - ✓ Restored shortcut: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Shortcuts\MSI Afterburner.lnk -> C:\Users\Hamza Ramzan\Desktop\MSI Afterburner.lnk
+2026-02-27 08:40:38 - INFO - Restored 2 shortcuts
+2026-02-27 08:40:38 - INFO - Importing registry keys...
+2026-02-27 08:40:38 - INFO - Imported registry file: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Registry\registry_key_1.reg
+2026-02-27 08:40:38 - INFO - Imported registry file: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Registry\registry_key_2.reg
+2026-02-27 08:40:38 - INFO - Imported registry file: D:/New folder\SmartAppBackup\MSI Afterburner 4.6.5\Registry\registry_key_3.reg
+2026-02-27 08:40:38 - INFO - Imported 3 registry keys
+2026-02-27 08:40:38 - INFO - Restore completed successfully

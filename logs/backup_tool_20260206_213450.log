@@ -1,0 +1,40 @@
+2026-02-06 21:34:50 - INFO - Logger initialized
+2026-02-06 21:34:50 - INFO - Loaded backup history
+2026-02-06 21:34:50 - INFO - Loaded backup history
+2026-02-06 21:34:50 - INFO - Scanning for installed applications...
+2026-02-06 21:34:50 - INFO - Found 47 installed applications
+2026-02-06 21:34:58 - INFO - Scanning all locations for: Google Drive
+2026-02-06 21:34:58 - INFO - Found 3 program data paths
+2026-02-06 21:34:58 - INFO - Found 1 user data paths
+2026-02-06 21:34:58 - INFO - Found 6 registry keys
+2026-02-06 21:34:59 - INFO - Scanning all locations for: HandBrake 1.10.2
+2026-02-06 21:34:59 - INFO - Found 1 program data paths
+2026-02-06 21:34:59 - INFO - Found 0 user data paths
+2026-02-06 21:34:59 - INFO - Found 0 registry keys
+2026-02-06 21:35:00 - INFO - Scanning all locations for: Internet Download Manager
+2026-02-06 21:35:00 - INFO - Found 1 program data paths
+2026-02-06 21:35:00 - INFO - Found 0 user data paths
+2026-02-06 21:35:00 - INFO - Found 2 registry keys
+2026-02-06 21:35:01 - INFO - Scanning all locations for: OpenAL
+2026-02-06 21:35:01 - INFO - Found 1 program data paths
+2026-02-06 21:35:01 - INFO - Found 0 user data paths
+2026-02-06 21:35:01 - INFO - Found 2 registry keys
+2026-02-06 21:35:02 - INFO - Scanning all locations for: MSI Afterburner 4.6.6
+2026-02-06 21:35:02 - INFO - Found 0 program data paths
+2026-02-06 21:35:02 - INFO - Found 0 user data paths
+2026-02-06 21:35:02 - INFO - Found 2 registry keys
+2026-02-06 21:35:27 - INFO - Scanning all locations for: MSI Afterburner 4.6.6
+2026-02-06 21:35:27 - INFO - Found 0 program data paths
+2026-02-06 21:35:27 - INFO - Found 0 user data paths
+2026-02-06 21:35:27 - INFO - Found 2 registry keys
+2026-02-06 21:35:27 - INFO - Starting backup for: MSI Afterburner 4.6.6
+2026-02-06 21:35:27 - INFO - Created backup structure: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
+2026-02-06 21:35:27 - INFO - Exporting registry keys...
+2026-02-06 21:35:27 - INFO - Exported registry key: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\MSI
+2026-02-06 21:35:27 - INFO - Exported registry key: HKEY_CURRENT_USER\Software\MSI
+2026-02-06 21:35:27 - INFO - Exported 2 registry keys
+2026-02-06 21:35:27 - INFO - Created manifest: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6\manifest.json
+2026-02-06 21:35:27 - INFO - Added new backup for MSI Afterburner 4.6.6
+2026-02-06 21:35:27 - INFO - Saved backup history
+2026-02-06 21:35:27 - INFO - Marked folder as hidden: E:/BackupSmart\SmartAppBackup
+2026-02-06 21:35:27 - INFO - Backup completed successfully: E:/BackupSmart\SmartAppBackup\MSI Afterburner 4.6.6
